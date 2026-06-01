@@ -85,3 +85,35 @@ Phase 1 - Hypertrophy Foundation
 
 Start Date:
 2026-06-01
+
+## Physique Assessment (2026-06)
+
+Photo review completed.
+
+Observations:
+
+- Waist remains relatively lean at 80.4 cm.
+- No significant abdominal fat accumulation.
+- Muscle mass is currently below potential for height.
+- Chest, arms and thighs are underdeveloped relative to frame size.
+- Current appearance is consistent with a lean individual lacking muscle mass rather than an overweight individual.
+
+Conclusion:
+
+Primary objective should be muscle gain rather than fat loss.
+
+Recommended strategy:
+
+Lean Bulk
+
+Rate of Gain:
+0.25-0.4 kg per week
+
+Nutrition Focus:
+2600-2800 kcal per day with at least 130 g protein
+
+Target Weight:
+66 kg by 2026-08-31
+
+Long-Term Target:
+70 kg

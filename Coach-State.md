@@ -93,13 +93,57 @@ Priority 1:
 Increase bodyweight from 62.6 kg to 66 kg
 
 Priority 2:
-Increase chest circumference to 92 cm
+Develop chest and upper chest
 
 Priority 3:
-Increase arm circumference to 30 cm
+Increase arm circumference from 27.8 cm to 30 cm
 
 Priority 4:
-Increase thigh circumference to 54 cm
+Increase thigh circumference from 50.2 cm to 54 cm
+
+Priority 5:
+Build visible abdominal definition through muscle development rather than weight loss
+
+---
+
+## Lean Bulk Strategy
+
+Current assessment:
+Naturally lean with low-to-moderate body fat and insufficient muscle mass for height.
+
+Primary action:
+Gain muscle and bodyweight. Do NOT cut.
+
+Weekly bodyweight target:
+Increase 0.25-0.4 kg per week.
+
+Nutrition target:
+2600-2800 kcal per day with at least 130 g protein.
+
+Adjustment rule:
+If bodyweight does not increase for 2 consecutive weeks, increase daily calories by 150-200 kcal.
+
+---
+
+## Abdominal Training Strategy
+
+Do NOT perform abdominal training daily.
+
+Perform abdominal training 2-3 times per week.
+
+Recommended rotation:
+
+Pull Day:
+Russian Twist
+
+Leg Day:
+Hanging Leg Raise
+
+Upper Day:
+Weighted Crunch
+
+Goal:
+Increase abdominal thickness while gaining overall muscle mass.
 
 ---
 
