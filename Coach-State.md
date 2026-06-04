@@ -64,13 +64,13 @@ Upgrade:
 ### Lat Pulldown
 
 Current:
-45 kg
+50 kg
 
 Target:
-4 sets of 12 reps
+Rebuild from 4 sets of 8 reps minimum
 
 Upgrade:
-50 kg
+Next upgrade rule to be defined after 50 kg baseline is established
 
 ---
 
@@ -150,28 +150,30 @@ Increase abdominal thickness while gaining overall muscle mass.
 ## Latest Workout Log
 
 Date:
-2026-06-01
+2026-06-05
 
 Workout:
-Push
+Pull
 
 Key Results:
 
-- Chest Press 35 kg: 10 / 10 / 12 / 10, RIR 2 / 2 / 0 / 0.
-- Dumbbell Bench Press 10 kg each hand: 10 / 10 / 10 / 10, RIR 2 / 1 / 2 / 2.
-- Incline Dumbbell Press 10 kg each hand: 8 / 8 / 8, RIR 0 / 0 / 1.
-- Seated Shoulder Press 25 kg: 8 / 9 / 8 / 9, RIR 0 / 0 / 0 / 0.
-- Dumbbell Lateral Raise 5 kg / 2.5 kg each hand: 10 / 10 / 10, RIR 0 / 2 / 2.
-- Tricep Pushdown 20 kg: 10 / 10 / 9 / 7, RIR 1 / 0 / 0 / 0.
+- Lat Pulldown 45 kg: 12 / 12 / 12 / 12, RIR 1 / 0 / 0 / 0. Left forearm nearly failed.
+- Seated Cable Row 25 kg: 10 / 12 / 12 / 12, RIR 0 / 1 / 1 / 0.
+- Machine Row skipped because machine was unavailable.
+- Assisted Pull-Up -45 kg assistance: 9 / 9 / 4 plus 4 swinging reps / 8, RIR 0 / 0 / 0 / 0.
+- Dumbbell Curl 5 kg each hand: 7 / 7 / 7, RIR 0 / 0 / 0. Left side failed first.
+- Hammer Curl 2.5 kg each hand: 10 / 12 / 12, RIR 2 / 2 / 2.
+- Russian Twist 10 kg: 10 / 10 / 10 each side, RIR 1 / 0 / 0.
 
 Progression Decisions:
 
-- Chest Press reached the 35 kg upgrade requirement. Next Chest Press target is 40 kg for controlled sets of 8+ reps.
-- Dumbbell Bench Press remains at 10 kg each hand until 4 sets reach 12 reps.
-- Incline Dumbbell Press remains at 10 kg each hand. Improve RIR control before increasing reps or load.
-- Shoulder Press at 25 kg is very close to failure across all sets. Keep load only if form remains strict.
-- Lateral Raise should use 2.5 kg each hand next time and target 12-15 controlled reps.
-- Tricep Pushdown should stay at 20 kg only if reps remain 10+ with better RIR control; otherwise reduce slightly and rebuild.
+- Lat Pulldown reached the 45 kg upgrade requirement. Next Lat Pulldown target is 50 kg for controlled sets of 8+ reps.
+- Seated Cable Row remains at 25 kg until all sets are clean with RIR 1-2.
+- Assisted Pull-Up remains at -45 kg assistance or increases assistance if strict reps drop below 8. No swinging reps count toward progression.
+- Dumbbell Curl should reduce below 5 kg each hand if available, or use strict alternating reps until the left side can reach 10+ reps.
+- Hammer Curl remains at 2.5 kg each hand until 3 sets reach 12 controlled reps.
+- Russian Twist remains at 10 kg with slower, controlled reps.
+- Monitor left forearm and grip fatigue during pull movements.
 
 ---
 
