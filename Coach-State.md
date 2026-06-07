@@ -150,30 +150,30 @@ Increase abdominal thickness while gaining overall muscle mass.
 ## Latest Workout Log
 
 Date:
-2026-06-05
+2026-06-06
 
 Workout:
-Pull
+Legs
 
 Key Results:
 
-- Lat Pulldown 45 kg: 12 / 12 / 12 / 12, RIR 1 / 0 / 0 / 0. Left forearm nearly failed.
-- Seated Cable Row 25 kg: 10 / 12 / 12 / 12, RIR 0 / 1 / 1 / 0.
-- Machine Row skipped because machine was unavailable.
-- Assisted Pull-Up -45 kg assistance: 9 / 9 / 4 plus 4 swinging reps / 8, RIR 0 / 0 / 0 / 0.
-- Dumbbell Curl 5 kg each hand: 7 / 7 / 7, RIR 0 / 0 / 0. Left side failed first.
-- Hammer Curl 2.5 kg each hand: 10 / 12 / 12, RIR 2 / 2 / 2.
-- Russian Twist 10 kg: 10 / 10 / 10 each side, RIR 1 / 0 / 0.
+- Leg Press 45 kg: 12 / 12, then 50 kg: 12 / 12, RIR 2 / 2 / 2 / 2.
+- Leg Extension 50 kg: 12 / 12 / 12 / 12, RIR 0 / 0 / 0 / 0.
+- Leg Curl skipped because equipment was unavailable.
+- Bulgarian Split Squat 5 kg total single-hand hold: left 10 / 10 / 10, right 10 / 10 / 10, RIR 0 / 0 / 0.
+- Standing Calf Raise skipped because equipment was unavailable.
+- Weighted Crunch 45 kg: 10 / 10 / 10, RIR 1 / 1 / 1.
+- Next morning: severe left glute soreness.
 
 Progression Decisions:
 
-- Lat Pulldown reached the 45 kg upgrade requirement. Next Lat Pulldown target is 50 kg for controlled sets of 8+ reps.
-- Seated Cable Row remains at 25 kg until all sets are clean with RIR 1-2.
-- Assisted Pull-Up remains at -45 kg assistance or increases assistance if strict reps drop below 8. No swinging reps count toward progression.
-- Dumbbell Curl should reduce below 5 kg each hand if available, or use strict alternating reps until the left side can reach 10+ reps.
-- Hammer Curl remains at 2.5 kg each hand until 3 sets reach 12 controlled reps.
-- Russian Twist remains at 10 kg with slower, controlled reps.
-- Monitor left forearm and grip fatigue during pull movements.
+- Leg Press next target is 50 kg for 4 sets of 12-15 controlled reps.
+- Leg Extension remains at 50 kg, but next session should avoid RIR 0 on every set. Target RIR 1-2.
+- Leg Curl remains untested due to missing equipment.
+- Bulgarian Split Squat should regress to bodyweight or assistance-supported reps next time. Do not load aggressively until left glute soreness response improves.
+- Standing Calf Raise remains untested due to missing equipment.
+- Weighted Crunch remains at 45 kg until 3 sets reach 12 controlled reps.
+- If left glute soreness is severe, next Upper session can proceed only if setup, bracing, and walking are not affected. Avoid lower-body loading until soreness drops.
 
 ---
 
