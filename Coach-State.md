@@ -4,10 +4,10 @@ Current Phase:
 Phase 1 - Hypertrophy Foundation
 
 Week:
-Week 1
+Week 2
 
 Current Body Weight:
-62.6 kg
+62.0 kg
 
 Target Body Weight:
 66 kg
@@ -90,19 +90,19 @@ Upgrade:
 ## Current Priorities
 
 Priority 1:
-Increase bodyweight from 62.6 kg to 66 kg
+Increase bodyweight from 62.0 kg to 66 kg
 
 Priority 2:
-Develop chest and upper chest
+Build visible eight-pack abs through abdominal thickness and controlled lean bulk
 
 Priority 3:
-Increase arm circumference from 27.8 cm to 30 cm
+Develop chest and upper chest
 
 Priority 4:
-Increase thigh circumference from 50.2 cm to 54 cm
+Increase arm circumference from 28 cm to 30 cm
 
 Priority 5:
-Build visible abdominal definition through muscle development rather than weight loss
+Increase thigh circumference toward 54 cm after measurement position is confirmed
 
 ---
 
@@ -143,37 +143,70 @@ Upper Day:
 Weighted Crunch
 
 Goal:
-Increase abdominal thickness while gaining overall muscle mass.
+Build visible eight-pack abs by increasing abdominal thickness while gaining overall muscle mass. Do not chase abdominal definition by cutting bodyweight.
+
+---
+
+## Weekly Check-In
+
+Date:
+2026-06-08
+
+Body Weight:
+62.0 kg
+
+Measurements:
+
+- Waist: 80.4 cm.
+- Thigh: 46.2 cm.
+- Hip: 62.5 cm.
+- Arm: 28 cm.
+- Chest: 83 cm.
+
+Primary Physique Goal:
+Visible eight-pack abs.
+
+Coach Assessment:
+
+- Body weight decreased from the starting reference of 62.6 kg to 62.0 kg.
+- Waist remained stable at 80.4 cm.
+- Arm increased slightly from 27.8 cm to 28 cm.
+- Chest, hip and thigh readings changed sharply and should be re-measured with the same tape position before trend decisions.
+- Current strategy remains lean bulk. Do NOT cut.
+
+Nutrition Decision:
+
+- Keep protein at 130 g minimum per day.
+- Keep calories at 2600-2800 kcal per day.
+- If bodyweight stays below 62.6 kg for another week, increase daily calories by 150-200 kcal.
 
 ---
 
 ## Latest Workout Log
 
 Date:
-2026-06-06
+2026-06-09
 
 Workout:
-Legs
+Home Upper
 
 Key Results:
 
-- Leg Press 45 kg: 12 / 12, then 50 kg: 12 / 12, RIR 2 / 2 / 2 / 2.
-- Leg Extension 50 kg: 12 / 12 / 12 / 12, RIR 0 / 0 / 0 / 0.
-- Leg Curl skipped because equipment was unavailable.
-- Bulgarian Split Squat 5 kg total single-hand hold: left 10 / 10 / 10, right 10 / 10 / 10, RIR 0 / 0 / 0.
-- Standing Calf Raise skipped because equipment was unavailable.
-- Weighted Crunch 45 kg: 10 / 10 / 10, RIR 1 / 1 / 1.
-- Next morning: severe left glute soreness.
+- Dumbbell Bench Press 10 kg each hand: 10 / 10 / 10 / 10, RIR 0 / 0 / 0 / 0.
+- Bent-Over Dumbbell Row 10 kg each hand: 10 / 10 / 10 / 10, RIR 0 / 0 / 0 / 0.
+- Dumbbell Lateral Raise 2.5 kg each hand: 10 / 10 / 10 / 10, RIR 2 / 2 / 2 / 2.
+- Hammer Curl 2.5 kg each hand: 10 / 10 / 10 / 10, RIR 2 / 2 / 2 / 2.
+- Seated Dumbbell Overhead Press 2.5 kg each hand: 10 / 10 / 10 / 10, RIR 2 / 2 / 2 / 2.
+- Gym unavailable. Chest Press 40 kg and Lat Pulldown 50 kg were not tested.
 
 Progression Decisions:
 
-- Leg Press next target is 50 kg for 4 sets of 12-15 controlled reps.
-- Leg Extension remains at 50 kg, but next session should avoid RIR 0 on every set. Target RIR 1-2.
-- Leg Curl remains untested due to missing equipment.
-- Bulgarian Split Squat should regress to bodyweight or assistance-supported reps next time. Do not load aggressively until left glute soreness response improves.
-- Standing Calf Raise remains untested due to missing equipment.
-- Weighted Crunch remains at 45 kg until 3 sets reach 12 controlled reps.
-- If left glute soreness is severe, next Upper session can proceed only if setup, bracing, and walking are not affected. Avoid lower-body loading until soreness drops.
+- Dumbbell Bench Press remains at 10 kg each hand. It is not ready for 12.5 kg because all sets were RIR 0 and the target is 4 sets of 12 reps.
+- Home back row at 10 kg each hand should avoid repeated RIR 0 sets. Next home session target is RIR 1-2 with strict back contraction.
+- Lateral Raise remains at 2.5 kg each hand until sets reach 12-15 controlled reps.
+- Hammer Curl remains at 2.5 kg each hand until sets reach 12 controlled reps.
+- Seated Dumbbell Overhead Press at 2.5 kg each hand is good light shoulder volume but does not replace the gym Shoulder Press strength reference.
+- Chest Press 40 kg and Lat Pulldown 50 kg remain pending gym baseline tests.
 
 ---
 

@@ -9,11 +9,15 @@ Age: 38
 Height: 178 cm
 
 Current Weight: 62.6 kg
+Latest Check-In Weight: 62.0 kg
 
 Estimated Body Fat: 12-15%
 
 Primary Goal:
 Lean Bulk / Hypertrophy
+
+Physique Goal:
+Visible eight-pack abs through abdominal muscle development and controlled lean bulk.
 
 Long Term Goal:
 70 kg bodyweight with visible muscular development while maintaining body fat below 15%.
@@ -25,14 +29,22 @@ Long Term Goal:
 Neck: 34 cm
 
 Chest: 87.1 cm
+Latest Chest: 83 cm
 
 Waist: 80.4 cm
+Latest Waist: 80.4 cm
 
 Hip: 79.8 cm
+Latest Hip: 62.5 cm
 
 Arm: 27.8 cm
+Latest Arm: 28 cm
 
 Thigh: 50.2 cm
+Latest Thigh: 46.2 cm
+
+Measurement Note:
+Latest chest, hip and thigh measurements changed significantly from baseline. Re-measure with the same tape position before using these values for long-term trend decisions.
 
 ---
 
@@ -117,3 +129,29 @@ Target Weight:
 
 Long-Term Target:
 70 kg
+
+## Weekly Check-In (2026-06-08)
+
+Body Weight:
+62.0 kg
+
+Waist:
+80.4 cm
+
+Thigh:
+46.2 cm
+
+Hip:
+62.5 cm
+
+Arm:
+28 cm
+
+Chest:
+83 cm
+
+Goal Reminder:
+Visible eight-pack abs.
+
+Coach Interpretation:
+Body weight is below the starting reference of 62.6 kg. This supports maintaining the lean bulk strategy rather than reducing calories. Eight-pack visibility should be pursued by increasing abdominal thickness, chest and upper-body muscle mass, and keeping waist gain controlled.
