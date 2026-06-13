@@ -185,27 +185,30 @@ Nutrition Decision:
 ## Latest Workout Log
 
 Date:
-2026-06-09
+2026-06-13
 
 Workout:
-Home Upper
+Legs
 
 Key Results:
 
-- Dumbbell Bench Press 10 kg each hand: 10 / 10 / 10 / 10, RIR 0 / 0 / 0 / 0.
-- Bent-Over Dumbbell Row 10 kg each hand: 10 / 10 / 10 / 10, RIR 0 / 0 / 0 / 0.
-- Dumbbell Lateral Raise 2.5 kg each hand: 10 / 10 / 10 / 10, RIR 2 / 2 / 2 / 2.
-- Hammer Curl 2.5 kg each hand: 10 / 10 / 10 / 10, RIR 2 / 2 / 2 / 2.
-- Seated Dumbbell Overhead Press 2.5 kg each hand: 10 / 10 / 10 / 10, RIR 2 / 2 / 2 / 2.
-- Gym unavailable. Chest Press 40 kg and Lat Pulldown 50 kg were not tested.
+- Leg Press 45 kg: 12 / 12 / 12 / 12, RIR 2 / 2 / 2 / 2.
+- Leg Extension 45 kg: 10 / 10 / 10 / 10, RIR 1 / 1 / 1 / 1.
+- Leg Curl skipped.
+- Bulgarian Split Squat skipped.
+- Standing Calf Raise skipped.
+- Weighted Crunch 45 kg: 10 / 10 / 10, RIR 2 / 2 / 2.
+- Static Row 30 kg: 10 / 10 / 10, RIR 1 / 1 / 1.
 
 Progression Decisions:
 
-- Dumbbell Bench Press remains at 10 kg each hand. It is not ready for 12.5 kg because all sets were RIR 0 and the target is 4 sets of 12 reps.
-- Home back row at 10 kg each hand should avoid repeated RIR 0 sets. Next home session target is RIR 1-2 with strict back contraction.
-- Lateral Raise remains at 2.5 kg each hand until sets reach 12-15 controlled reps.
-- Hammer Curl remains at 2.5 kg each hand until sets reach 12 controlled reps.
-- Seated Dumbbell Overhead Press at 2.5 kg each hand is good light shoulder volume but does not replace the gym Shoulder Press strength reference.
+- Leg Press was controlled at 45 kg. If recovery is normal, next Leg Press target can return to 50 kg for 4 sets of 10-12 reps.
+- Leg Extension should remain at 45 kg until it reaches 4 sets of 12 reps with RIR 1-2, then consider returning to 50 kg.
+- Leg Curl remains untested.
+- Bulgarian Split Squat can be reintroduced with bodyweight or assistance-supported reps only.
+- Standing Calf Raise remains untested.
+- Weighted Crunch remains at 45 kg until 3 sets reach 12 controlled reps.
+- Static Row 30 kg was good extra back work, but it does not replace the next planned pull progression session.
 - Chest Press 40 kg and Lat Pulldown 50 kg remain pending gym baseline tests.
 
 ---
