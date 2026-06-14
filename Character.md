@@ -9,7 +9,7 @@ Age: 38
 Height: 178 cm
 
 Current Weight: 62.6 kg
-Latest Check-In Weight: 62.0 kg
+Latest Check-In Weight: 62.4 kg
 
 Estimated Body Fat: 12-15%
 
@@ -27,12 +27,13 @@ Long Term Goal:
 ## Body Measurements
 
 Neck: 34 cm
+Latest Neck: 35.5 cm
 
 Chest: 87.1 cm
-Latest Chest: 83 cm
+Latest Chest: 82 cm
 
 Waist: 80.4 cm
-Latest Waist: 80.4 cm
+Latest Waist: 81 cm
 
 Hip: 79.8 cm
 Latest Hip: 62.5 cm
@@ -41,10 +42,10 @@ Arm: 27.8 cm
 Latest Arm: 28 cm
 
 Thigh: 50.2 cm
-Latest Thigh: 46.2 cm
+Latest Thigh: 49 cm
 
 Measurement Note:
-Latest chest, hip and thigh measurements changed significantly from baseline. Re-measure with the same tape position before using these values for long-term trend decisions.
+Chest, hip and thigh measurements have changed significantly across check-ins. Re-measure with the same tape position before using these values for long-term trend decisions.
 
 ---
 
@@ -155,3 +156,26 @@ Visible eight-pack abs.
 
 Coach Interpretation:
 Body weight is below the starting reference of 62.6 kg. This supports maintaining the lean bulk strategy rather than reducing calories. Eight-pack visibility should be pursued by increasing abdominal thickness, chest and upper-body muscle mass, and keeping waist gain controlled.
+
+## Weekly Check-In (2026-06-14)
+
+Body Weight:
+62.4 kg
+
+Neck:
+35.5 cm
+
+Waist:
+81 cm
+
+Thigh:
+49 cm
+
+Chest:
+82 cm
+
+Goal Reminder:
+Visible eight-pack abs.
+
+Coach Interpretation:
+Body weight increased from 62.0 kg to 62.4 kg compared with the previous check-in. This matches the lean bulk target rate. Waist increased from 80.4 cm to 81 cm, which is acceptable for now but should be monitored. Continue lean bulk and do not cut.

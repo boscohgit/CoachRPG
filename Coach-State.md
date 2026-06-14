@@ -4,10 +4,10 @@ Current Phase:
 Phase 1 - Hypertrophy Foundation
 
 Week:
-Week 2
+Week 3
 
 Current Body Weight:
-62.0 kg
+62.4 kg
 
 Target Body Weight:
 66 kg
@@ -90,7 +90,7 @@ Upgrade:
 ## Current Priorities
 
 Priority 1:
-Increase bodyweight from 62.0 kg to 66 kg
+Increase bodyweight from 62.4 kg to 66 kg
 
 Priority 2:
 Build visible eight-pack abs through abdominal thickness and controlled lean bulk
@@ -150,35 +150,56 @@ Build visible eight-pack abs by increasing abdominal thickness while gaining ove
 ## Weekly Check-In
 
 Date:
-2026-06-08
+2026-06-14
 
 Body Weight:
-62.0 kg
+62.4 kg
 
 Measurements:
 
-- Waist: 80.4 cm.
-- Thigh: 46.2 cm.
-- Hip: 62.5 cm.
-- Arm: 28 cm.
-- Chest: 83 cm.
+- Neck: 35.5 cm.
+- Waist: 81 cm.
+- Thigh: 49 cm.
+- Chest: 82 cm.
 
 Primary Physique Goal:
 Visible eight-pack abs.
 
 Coach Assessment:
 
-- Body weight decreased from the starting reference of 62.6 kg to 62.0 kg.
-- Waist remained stable at 80.4 cm.
-- Arm increased slightly from 27.8 cm to 28 cm.
-- Chest, hip and thigh readings changed sharply and should be re-measured with the same tape position before trend decisions.
+- Body weight increased from 62.0 kg to 62.4 kg compared with the previous check-in.
+- This matches the lean bulk target rate of 0.25-0.4 kg per week.
+- Waist increased from 80.4 cm to 81 cm. Monitor, but do not cut.
+- Thigh measurement rebounded from 46.2 cm to 49 cm, supporting the note that measurement position needs to remain consistent.
+- Chest decreased from 83 cm to 82 cm and should be re-measured next check-in with consistent tape placement.
 - Current strategy remains lean bulk. Do NOT cut.
 
 Nutrition Decision:
 
 - Keep protein at 130 g minimum per day.
 - Keep calories at 2600-2800 kcal per day.
-- If bodyweight stays below 62.6 kg for another week, increase daily calories by 150-200 kcal.
+- Do not increase calories yet because weekly gain is on target.
+
+---
+
+## Next Week Gym Plan
+
+Week:
+2026-06-15 to 2026-06-21
+
+Gym Days:
+
+- Tuesday 2026-06-16: Upper A.
+- Thursday 2026-06-18: Pull.
+- Saturday 2026-06-20: Legs.
+
+Main Objectives:
+
+- Test Chest Press 40 kg baseline on Tuesday.
+- Test Lat Pulldown 50 kg baseline on Tuesday or Thursday.
+- Complete a full Pull session on Thursday because back progression was under-tested last week.
+- Complete Legs on Saturday, including hamstrings and calves if equipment is available.
+- Keep abdominal training 2-3 times this week for visible eight-pack development.
 
 ---
 
