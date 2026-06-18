@@ -206,35 +206,31 @@ Main Objectives:
 ## Latest Workout Log
 
 Date:
-2026-06-16
+2026-06-18
 
 Workout:
-Upper A
+Pull
 
 Key Results:
 
-- Chest Press 40 kg: 10 / 10 / 8 / 10, RIR 0 / 0 / 0 / 0.
-- Lat Pulldown 50 kg: 8 / 8 / 8 / 8, RIR 1 / 1 / 1 / 0.
-- Dumbbell Bench Press 10 kg each hand: 10 / 10 / 12 / 12, RIR 1 / 2 / 0 / 0.
-- Incline Dumbbell Press 10 kg each hand: 6 / 6 / 6 / 6, RIR 0 / 0 / 1 / 1.
-- Seated Cable Row 30 kg: 10 / 10 / 10, RIR 0 / 0 / 0.
-- Dumbbell Lateral Raise 2.5 kg each hand, then 5 kg each hand: 10 / 10 / 10, RIR 0 / 0 / 0.
-- Tricep Pushdown 20 kg, then 15 kg: 10 / 10 / 10, RIR 0 / 0 / 0.
-- Hammer Curl 2.5 kg each hand, then 5 kg each hand: 10 / 10 / 10, RIR 0 / 0 / 0.
-- Hanging Knee Raise: 10 / 10 / 10, RIR 2 / 2 / 2.
+- Duration: 36 minutes including warm-up.
+- Lat Pulldown 50 kg: 9 / 9 / 9 / 8, RIR 1 / 1 / 0 / 0.
+- Seated Cable Row 25 kg: 10 / 10 / 10 / 10, RIR 0 / 0 / 0 / 0.
+- Assisted Pull-Up skipped.
+- Machine Row / Static Row skipped.
+- Dumbbell Curl 5 kg each hand: 8 / 8 / 8, RIR 0 / 0 / 0. Left side remains limiting.
+- Hammer Curl 2.5 kg each hand: 10 / 10 / 10, RIR 0 / 0 / 0.
+- Russian Twist 10 kg: 10 / 10 / 10 each side, RIR 0 / 0 / 0.
 
 Progression Decisions:
 
-- Chest Press 40 kg baseline achieved, but all sets reached failure. Keep 40 kg and target 4 sets of 8-10 with RIR 1-2.
-- Lat Pulldown 50 kg baseline achieved. Keep 50 kg and target 4 sets of 9-10 before pushing toward 12.
-- Dumbbell Bench Press remains at 10 kg each hand until 4 sets reach 12 reps with better RIR control.
-- Incline Dumbbell Press at 10 kg each hand is high fatigue after flat pressing. Keep load but do not force failure.
-- Seated Cable Row at 30 kg was too close to failure. Next row target should be 25-30 kg with RIR 1-2.
-- Lateral Raise should return to 2.5 kg each hand for controlled 12-15 reps.
-- Tricep Pushdown should use 15 kg next time and target RIR 1-2.
-- Hammer Curl should use 2.5 kg each hand next time and target controlled reps before increasing to 5 kg.
-- Hanging Knee Raise is effective and should continue as an eight-pack accessory.
-- Overall intensity was too high. Next session should keep most sets at RIR 1-2 and avoid repeated RIR 0.
+- Lat Pulldown improved at 50 kg. Keep 50 kg and target 4 sets of 9 with RIR 1-2 before pushing toward 10+.
+- Seated Cable Row stays at 25 kg, but next session must stop earlier and target RIR 1-2.
+- Assisted Pull-Up or a second row movement should be included next pull session to bring back volume into the target range.
+- Dumbbell Curl at 5 kg each hand is still limited by the left side. Reduce load if available or use strict alternating curls.
+- Hammer Curl at 2.5 kg each hand should not be taken to failure on every set. Target RIR 1-2.
+- Russian Twist remains at 10 kg, but next session should use slower controlled reps and avoid RIR 0 on every set.
+- 36 minutes is acceptable for a compressed session, but ideal pull sessions should be 45-60 minutes with 16-20 hard sets.
 
 ---
 
