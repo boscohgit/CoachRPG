@@ -9,7 +9,7 @@ Age: 38
 Height: 178 cm
 
 Current Weight: 62.6 kg
-Latest Check-In Weight: 62.4 kg
+Latest Check-In Weight: 61.7 kg
 
 Estimated Body Fat: 12-15%
 
@@ -123,7 +123,7 @@ Rate of Gain:
 0.25-0.4 kg per week
 
 Nutrition Focus:
-2600-2800 kcal per day with at least 130 g protein
+2800-3100 kcal per day with at least 130 g protein
 
 Target Weight:
 66 kg by 2026-08-31

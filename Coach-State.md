@@ -7,7 +7,7 @@ Week:
 Week 3
 
 Current Body Weight:
-62.4 kg
+61.7 kg
 
 Target Body Weight:
 66 kg
@@ -90,7 +90,7 @@ Upgrade:
 ## Current Priorities
 
 Priority 1:
-Increase bodyweight from 62.4 kg to 66 kg
+Increase bodyweight from 61.7 kg to 66 kg
 
 Priority 2:
 Build visible eight-pack abs through abdominal thickness and controlled lean bulk
@@ -118,7 +118,7 @@ Weekly bodyweight target:
 Increase 0.25-0.4 kg per week.
 
 Nutrition target:
-2600-2800 kcal per day with at least 130 g protein.
+2800-3100 kcal per day with at least 130 g protein.
 
 Adjustment rule:
 If bodyweight does not increase for 2 consecutive weeks, increase daily calories by 150-200 kcal.
@@ -177,8 +177,8 @@ Coach Assessment:
 Nutrition Decision:
 
 - Keep protein at 130 g minimum per day.
-- Keep calories at 2600-2800 kcal per day.
-- Do not increase calories yet because weekly gain is on target.
+- Increase calories to 2800-3100 kcal per day because body weight dropped to 61.7 kg on 2026-06-20.
+- Add 200-300 kcal per day immediately.
 
 ---
 
@@ -206,31 +206,41 @@ Main Objectives:
 ## Latest Workout Log
 
 Date:
-2026-06-18
+2026-06-20
 
 Workout:
-Pull
+Legs
 
 Key Results:
 
-- Duration: 36 minutes including warm-up.
-- Lat Pulldown 50 kg: 9 / 9 / 9 / 8, RIR 1 / 1 / 0 / 0.
-- Seated Cable Row 25 kg: 10 / 10 / 10 / 10, RIR 0 / 0 / 0 / 0.
-- Assisted Pull-Up skipped.
-- Machine Row / Static Row skipped.
-- Dumbbell Curl 5 kg each hand: 8 / 8 / 8, RIR 0 / 0 / 0. Left side remains limiting.
-- Hammer Curl 2.5 kg each hand: 10 / 10 / 10, RIR 0 / 0 / 0.
-- Russian Twist 10 kg: 10 / 10 / 10 each side, RIR 0 / 0 / 0.
+- Body weight: 61.7 kg.
+- Leg Press 50 kg: 10 / 8 / 8 / 8, target RIR 2. Right knee pain started on set 2.
+- Leg Curl 45 kg: 8 / 8 / 8 / 0, target RIR 2-3.
+- Bulgarian Split Squat 8 kg with bodyweight/assistance setup: left 10 / 10, right 8 / 8, target RIR 3.
+- Seated Row / Static Row 25 kg: 10 / 10 / 10, target RIR 2.
+- Assisted Pull-Up -45 kg assistance: 8 / 8 / 8 / 8, target RIR 2.
+- Weighted Crunch 45 kg: 10 / 8 / 8, target RIR 2.
+- Hanging Leg Raise: 10 / 10 / 10, target RIR 2. Right calf cramped during the first set.
 
 Progression Decisions:
 
-- Lat Pulldown improved at 50 kg. Keep 50 kg and target 4 sets of 9 with RIR 1-2 before pushing toward 10+.
-- Seated Cable Row stays at 25 kg, but next session must stop earlier and target RIR 1-2.
-- Assisted Pull-Up or a second row movement should be included next pull session to bring back volume into the target range.
-- Dumbbell Curl at 5 kg each hand is still limited by the left side. Reduce load if available or use strict alternating curls.
-- Hammer Curl at 2.5 kg each hand should not be taken to failure on every set. Target RIR 1-2.
-- Russian Twist remains at 10 kg, but next session should use slower controlled reps and avoid RIR 0 on every set.
-- 36 minutes is acceptable for a compressed session, but ideal pull sessions should be 45-60 minutes with 16-20 hard sets.
+- Do not progress Leg Press next session due to right knee pain. Use 45 kg or lighter if knee discomfort persists.
+- Leg Curl stays at 45 kg only if controlled; otherwise reduce load and target 10-12 reps.
+- Bulgarian Split Squat should remain controlled and should not be aggressively loaded while knee symptoms are present.
+- Assisted Pull-Up -45 kg assistance was successfully reintroduced. Keep -45 kg and build strict reps.
+- Weighted Crunch remains at 45 kg but should rebuild toward 3 sets of 10-12.
+- Monitor right calf cramping. Add hydration and sodium attention before training.
+- Body weight dropped to 61.7 kg. Increase daily calories by 200-300 kcal immediately.
+
+---
+
+## Injury / Symptom Watch
+
+Right Knee:
+Pain appeared during Leg Press on 2026-06-20. Avoid increasing knee-dominant load until pain resolves. If pain persists during daily movement or next warm-up, reduce Leg Press load and skip unilateral knee-dominant work.
+
+Right Calf:
+Cramped during Hanging Leg Raise on 2026-06-20. Monitor hydration, sodium and calf fatigue.
 
 ---
 
