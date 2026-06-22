@@ -4,10 +4,10 @@ Current Phase:
 Phase 1 - Hypertrophy Foundation
 
 Week:
-Week 3
+Week 4
 
 Current Body Weight:
-61.7 kg
+61.8 kg
 
 Target Body Weight:
 66 kg
@@ -90,7 +90,7 @@ Upgrade:
 ## Current Priorities
 
 Priority 1:
-Increase bodyweight from 61.7 kg to 66 kg
+Increase bodyweight from 61.8 kg to 66 kg
 
 Priority 2:
 Build visible eight-pack abs through abdominal thickness and controlled lean bulk
@@ -99,7 +99,7 @@ Priority 3:
 Develop chest and upper chest
 
 Priority 4:
-Increase arm circumference from 28 cm to 30 cm
+Increase arm circumference from 26.5 cm to 30 cm after measurement position is confirmed
 
 Priority 5:
 Increase thigh circumference toward 54 cm after measurement position is confirmed
@@ -150,55 +150,55 @@ Build visible eight-pack abs by increasing abdominal thickness while gaining ove
 ## Weekly Check-In
 
 Date:
-2026-06-14
+2026-06-21
 
 Body Weight:
-62.4 kg
+61.8 kg
 
 Measurements:
 
-- Neck: 35.5 cm.
-- Waist: 81 cm.
-- Thigh: 49 cm.
-- Chest: 82 cm.
+- Neck: 34 cm.
+- Waist: 78.5 cm.
+- Chest: 86 cm.
+- Thigh: 50 cm.
+- Arm: 26.5 cm.
 
 Primary Physique Goal:
 Visible eight-pack abs.
 
 Coach Assessment:
 
-- Body weight increased from 62.0 kg to 62.4 kg compared with the previous check-in.
-- This matches the lean bulk target rate of 0.25-0.4 kg per week.
-- Waist increased from 80.4 cm to 81 cm. Monitor, but do not cut.
-- Thigh measurement rebounded from 46.2 cm to 49 cm, supporting the note that measurement position needs to remain consistent.
-- Chest decreased from 83 cm to 82 cm and should be re-measured next check-in with consistent tape placement.
+- Body weight is 61.8 kg, still below the starting reference and below the lean bulk trend target.
+- Waist decreased from 81 cm to 78.5 cm, which supports leanness but also suggests bodyweight gain is not yet sufficient.
+- Chest increased from 82 cm to 86 cm and thigh increased from 49 cm to 50 cm compared with the previous check-in.
+- Arm decreased from 28 cm to 26.5 cm and should be re-measured with consistent tape placement before changing priorities.
 - Current strategy remains lean bulk. Do NOT cut.
 
 Nutrition Decision:
 
 - Keep protein at 130 g minimum per day.
-- Increase calories to 2800-3100 kcal per day because body weight dropped to 61.7 kg on 2026-06-20.
-- Add 200-300 kcal per day immediately.
+- Keep calories at 2800-3100 kcal per day.
+- Do not reduce calories because bodyweight is still below target trend.
 
 ---
 
 ## Next Week Gym Plan
 
 Week:
-2026-06-15 to 2026-06-21
+2026-06-22 to 2026-06-28
 
 Gym Days:
 
-- Tuesday 2026-06-16: Upper A.
-- Thursday 2026-06-18: Pull.
-- Saturday 2026-06-20: Legs.
+- Tuesday 2026-06-23: Upper A.
+- Thursday 2026-06-25: Pull.
+- Saturday 2026-06-27: Legs, knee-aware.
 
 Main Objectives:
 
-- Test Chest Press 40 kg baseline on Tuesday.
-- Test Lat Pulldown 50 kg baseline on Tuesday or Thursday.
-- Complete a full Pull session on Thursday because back progression was under-tested last week.
-- Complete Legs on Saturday, including hamstrings and calves if equipment is available.
+- Continue Chest Press 40 kg with RIR 2 control.
+- Continue Lat Pulldown 50 kg and aim for 4 sets of 9+ with RIR 1-2.
+- Complete Pull with enough back volume and avoid every accessory set reaching failure.
+- Complete Legs on Saturday only if right knee is pain-free during warm-up. Use reduced knee-dominant load if needed.
 - Keep abdominal training 2-3 times this week for visible eight-pack development.
 
 ---
