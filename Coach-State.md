@@ -206,31 +206,34 @@ Main Objectives:
 ## Latest Workout Log
 
 Date:
-2026-06-20
+2026-06-23
 
 Workout:
-Legs
+Upper A
 
 Key Results:
 
-- Body weight: 61.7 kg.
-- Leg Press 50 kg: 10 / 8 / 8 / 8, target RIR 2. Right knee pain started on set 2.
-- Leg Curl 45 kg: 8 / 8 / 8 / 0, target RIR 2-3.
-- Bulgarian Split Squat 8 kg with bodyweight/assistance setup: left 10 / 10, right 8 / 8, target RIR 3.
-- Seated Row / Static Row 25 kg: 10 / 10 / 10, target RIR 2.
-- Assisted Pull-Up -45 kg assistance: 8 / 8 / 8 / 8, target RIR 2.
-- Weighted Crunch 45 kg: 10 / 8 / 8, target RIR 2.
-- Hanging Leg Raise: 10 / 10 / 10, target RIR 2. Right calf cramped during the first set.
+- Chest Press 40 kg: 8 / 8 / 8 / 8, target RIR 2.
+- Lat Pulldown 50 kg: 8 / 8 / 8 / 8, target RIR 2.
+- Bench Press 20 kg: 8 / 8 / 8, target RIR 2.
+- Seated Cable Row 30 kg: 8 / 8 / 8, target RIR 2.
+- Dumbbell Lateral Raise 3 kg each hand: 10 / 10 / 10, target RIR 2.
+- Tricep Pushdown 15 kg: 10 / 10 / 10, target RIR 2.
+- Hammer Curl 3 kg each hand: 10 / 10 / 10, target RIR 2.
+- Hanging Leg Raise: 10 / 10 / 10, target RIR 2.
+- Weighted Crunch 45 kg: 8 / 8 / 8, target RIR 2.
 
 Progression Decisions:
 
-- Do not progress Leg Press next session due to right knee pain. Use 45 kg or lighter if knee discomfort persists.
-- Leg Curl stays at 45 kg only if controlled; otherwise reduce load and target 10-12 reps.
-- Bulgarian Split Squat should remain controlled and should not be aggressively loaded while knee symptoms are present.
-- Assisted Pull-Up -45 kg assistance was successfully reintroduced. Keep -45 kg and build strict reps.
-- Weighted Crunch remains at 45 kg but should rebuild toward 3 sets of 10-12.
-- Monitor right calf cramping. Add hydration and sodium attention before training.
-- Body weight dropped to 61.7 kg. Increase daily calories by 200-300 kcal immediately.
+- Chest Press 40 kg should stay at 40 kg and build toward 4 sets of 9-10 while maintaining target RIR 2.
+- Lat Pulldown 50 kg should stay at 50 kg and build back toward 4 sets of 9+ with strict form and target RIR 2.
+- Bench Press 20 kg is now logged as a barbell pressing variation. Keep stable until form and RIR are consistent.
+- Seated Cable Row 30 kg was controlled at lower reps. Keep 30 kg only if RIR 2 and strict back contraction are maintained.
+- Lateral Raise can stay at 3 kg each hand and build toward 12-15 reps.
+- Tricep Pushdown stays at 15 kg and builds controlled reps.
+- Hammer Curl can stay at 3 kg each hand and build toward 12 reps.
+- Weighted Crunch remains at 45 kg and should rebuild toward 3 sets of 10-12.
+- This session successfully practiced fixed target RIR instead of repeated failure sets.
 
 ---
 
