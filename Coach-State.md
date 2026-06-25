@@ -228,13 +228,16 @@ Progression Decisions:
 - Seated Cable Row can stay at 30 kg for 3 sets of 8-10 with target RIR 2.
 - Assisted Pull-Up stays at -45 kg assistance. Do not reduce assistance. Next target: 8 / 8 / 7 / 7 with target RIR 2, or use slightly more assistance to keep the fourth set from reaching failure.
 - Add Static Row / Machine Row only if time and recovery allow. It is optional after Lat Pulldown, Cable Row and Assisted Pull-Up.
-- Dumbbell Curl stays at 3 kg each hand. Do not jump to 5 kg until 3 sets of 12 are controlled at target RIR 2.
-- Hammer Curl stays at 3 kg each hand and builds toward 12 reps.
+- Dumbbell Curl: next session should test 5 kg each hand for 3 sets of 6-8 reps with target RIR 2. If left side cannot maintain strict form, return to 3 kg and build reps.
+- Hammer Curl: next session should test 5 kg each hand for 3 sets of 6-8 reps with target RIR 2. If form breaks, return to 3 kg and build reps.
 - Russian Twist stays at 10 kg with controlled reps.
 - Session duration of 46 minutes is appropriate.
 
 Strength Note:
 Dumbbell isolation loads are not directly comparable to machine loads. 3 kg curls can be appropriate while 30-50 kg machine movements are also appropriate because the muscles, leverage, stabilization demands and machine mechanics are different.
+
+Next Dumbbell Test:
+User reported 3 kg dumbbells felt easy. Test 5 kg on Dumbbell Curl and Hammer Curl next time with low reps only. Passing standard is 3 sets of 6-8 reps at target RIR 2 with strict form and no left-side breakdown.
 
 ---
 
