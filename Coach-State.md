@@ -206,45 +206,31 @@ Main Objectives:
 ## Latest Workout Log
 
 Date:
-2026-06-25
+2026-06-27
 
 Workout:
-Pull
+Legs
 
 Key Results:
 
-- Duration: 46 minutes.
-- Lat Pulldown 50 kg: 9 / 9 / 8 / 8, target RIR 2.
-- Seated Cable Row 30 kg: 8 / 8 / 8, target RIR 2.
-- Assisted Pull-Up -45 kg assistance: 8 / 8 / 8 / 7, target RIR 2. Fourth set reached failure.
-- Static Row / Machine Row skipped.
-- Dumbbell Curl 3 kg each hand: 10 / 10 / 10, target RIR 2.
-- Hammer Curl 3 kg each hand: 10 / 10 / 10, target RIR 2.
-- Russian Twist 10 kg: 10 / 10 / 10 each side, target RIR 2.
+- Leg Press 45 kg: 11 / 10 / 8 / 0, target RIR 2.
+- Right knee pain started during Leg Press set 2.
+- Pain appeared at the deepest knee-bend / highest-force position.
+- Leg Press set 4 was not performed because pain prevented continuation.
+- Leg Curl 45 kg was attempted but could not be performed due to pain in the same right medial knee area.
 
 Progression Decisions:
 
-- Lat Pulldown stays at 50 kg. Next target: 9 / 9 / 9 / 8 or 9 / 9 / 9 / 9 while preserving target RIR 2.
-- Seated Cable Row can stay at 30 kg for 3 sets of 8-10 with target RIR 2.
-- Assisted Pull-Up stays at -45 kg assistance. Do not reduce assistance. Next target: 8 / 8 / 7 / 7 with target RIR 2, or use slightly more assistance to keep the fourth set from reaching failure.
-- Add Static Row / Machine Row only if time and recovery allow. It is optional after Lat Pulldown, Cable Row and Assisted Pull-Up.
-- Dumbbell Curl: next session should test 5 kg each hand for 3 sets of 6-8 reps with target RIR 2. If left side cannot maintain strict form, return to 3 kg and build reps.
-- Hammer Curl: next session should test 5 kg each hand for 3 sets of 6-8 reps with target RIR 2. If form breaks, return to 3 kg and build reps.
-- Russian Twist stays at 10 kg with controlled reps.
-- Session duration of 46 minutes is appropriate.
-
-Strength Note:
-Dumbbell isolation loads are not directly comparable to machine loads. 3 kg curls can be appropriate while 30-50 kg machine movements are also appropriate because the muscles, leverage, stabilization demands and machine mechanics are different.
-
-Next Dumbbell Test:
-User reported 3 kg dumbbells felt easy. Test 5 kg on Dumbbell Curl and Hammer Curl next time with low reps only. Passing standard is 3 sets of 6-8 reps at target RIR 2 with strict form and no left-side breakdown.
+- Stop lower-body loading for now. Do not perform Leg Press, Leg Curl, Bulgarian Split Squat, squats or lunges until right knee pain is absent during daily movement and warm-up.
+- Next training session should be upper-body only if knee symptoms persist.
+- If right knee pain persists, worsens, causes swelling, affects walking, or returns during the next warm-up, get assessed by a qualified medical professional or physiotherapist.
 
 ---
 
 ## Injury / Symptom Watch
 
 Right Knee:
-Pain appeared during Leg Press on 2026-06-20. Avoid increasing knee-dominant load until pain resolves. If pain persists during daily movement or next warm-up, reduce Leg Press load and skip unilateral knee-dominant work.
+Pain appeared during Leg Press on 2026-06-20 and recurred on 2026-06-27 at 45 kg. On 2026-06-27, pain occurred at the deepest knee-bend / high-force position during Leg Press and also appeared during Leg Curl in the same right medial knee area. Pause lower-body loading until pain is absent during daily movement and warm-up.
 
 Right Calf:
 Cramped during Hanging Leg Raise on 2026-06-20. Monitor hydration, sodium and calf fatigue.
