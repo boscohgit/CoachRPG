@@ -7,7 +7,7 @@ Week:
 Week 4
 
 Current Body Weight:
-61.8 kg
+62.5 kg
 
 Target Body Weight:
 66 kg
@@ -90,7 +90,7 @@ Upgrade:
 ## Current Priorities
 
 Priority 1:
-Increase bodyweight from 61.8 kg to 66 kg
+Increase bodyweight from 62.5 kg to 66 kg
 
 Priority 2:
 Build visible eight-pack abs through abdominal thickness and controlled lean bulk
@@ -209,21 +209,32 @@ Date:
 2026-06-27
 
 Workout:
-Legs
+Upper / Abs Supplemental
 
 Key Results:
 
-- Leg Press 45 kg: 11 / 10 / 8 / 0, target RIR 2.
-- Right knee pain started during Leg Press set 2.
-- Pain appeared at the deepest knee-bend / highest-force position.
-- Leg Press set 4 was not performed because pain prevented continuation.
-- Leg Curl 45 kg was attempted but could not be performed due to pain in the same right medial knee area.
+- Body weight: 62.5 kg.
+- Duration: 60 minutes.
+- Assisted Pull-Up -45 kg assistance: 8 / 8 / 7 / 7, target RIR 2. Reps matched target, but form broke down around rep 5-6.
+- Seated Cable Row 30 kg: 8 / 8 / 8, target RIR 2.
+- Lat Pulldown 50 kg: 8 / 8 / 8, target RIR 2.
+- Dumbbell Curl 5 kg each hand: 6 / 6 / 6, target RIR 2. Completed but with body sway.
+- Hammer Curl 5 kg each hand: 6 / 6 / 6, target RIR 2.
+- Bench Press 25 kg: 6 / 6 / 6, RIR 0 / 0 / 0.
+- Weighted Crunch 45 kg: 8 / 8 / 10, target RIR 2.
+- Hanging Leg Raise: 10 / 10 / 10, target RIR 2.
 
 Progression Decisions:
 
-- Stop lower-body loading for now. Do not perform Leg Press, Leg Curl, Bulgarian Split Squat, squats or lunges until right knee pain is absent during daily movement and warm-up.
-- Next training session should be upper-body only if knee symptoms persist.
-- If right knee pain persists, worsens, causes swelling, affects walking, or returns during the next warm-up, get assessed by a qualified medical professional or physiotherapist.
+- Assisted Pull-Up should not progress yet. Use -45 kg assistance with stricter reps or increase assistance to keep all reps clean.
+- Seated Cable Row can stay at 30 kg.
+- Lat Pulldown can stay at 50 kg.
+- Dumbbell Curl 5 kg test was completed but not a clean pass due to body sway. Next target is 5 kg for 3 sets of 5-6 strict reps, or return to 3 kg if the left side breaks down.
+- Hammer Curl 5 kg test is acceptable as a low-rep test. Keep 5 kg and build strict 6-rep sets before adding reps.
+- Bench Press 25 kg hit RIR 0 on all sets. Use 20 kg for controlled hypertrophy work or keep 25 kg only with lower target reps and RIR 1-2.
+- Weighted Crunch 45 kg should progress toward 10 / 10 / 10 with target RIR 2.
+- Hanging Leg Raise remains effective; monitor calf cramping history.
+- Lower-body loading remains paused due to right knee pain from earlier today.
 
 ---
 

@@ -9,7 +9,7 @@ Age: 38
 Height: 178 cm
 
 Current Weight: 62.6 kg
-Latest Check-In Weight: 61.8 kg
+Latest Check-In Weight: 62.5 kg
 
 Estimated Body Fat: 12-15%
 
