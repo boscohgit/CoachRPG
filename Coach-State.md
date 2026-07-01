@@ -4,7 +4,7 @@ Current Phase:
 Phase 1 - Hypertrophy Foundation
 
 Week:
-Week 4
+Week 5
 
 Current Body Weight:
 62.5 kg
@@ -206,35 +206,37 @@ Main Objectives:
 ## Latest Workout Log
 
 Date:
-2026-06-27
+2026-07-01
 
 Workout:
-Upper / Abs Supplemental
+Upper A
 
 Key Results:
 
-- Body weight: 62.5 kg.
-- Duration: 60 minutes.
-- Assisted Pull-Up -45 kg assistance: 8 / 8 / 7 / 7, target RIR 2. Reps matched target, but form broke down around rep 5-6.
+- Chest Press 40 kg: 8 / 8 / 9 / 8, target RIR 2.
+- Lat Pulldown 50 kg: 9 / 9 / 9 / 8, target RIR 2. Arm compensation/fatigue appeared around set 3.
 - Seated Cable Row 30 kg: 8 / 8 / 8, target RIR 2.
-- Lat Pulldown 50 kg: 8 / 8 / 8, target RIR 2.
-- Dumbbell Curl 5 kg each hand: 6 / 6 / 6, target RIR 2. Completed but with body sway.
+- Bench Press 20 kg: 8 / 8 / 8, target RIR 2.
+- Dumbbell Lateral Raise 5 kg each hand: 6 / 6 / 6, target RIR 2.
+- Tricep Pushdown 15 kg: 10 / 10 / 10, target RIR 2.
+- Dumbbell Curl 5 kg each hand: 6 / 6 / 6, target RIR 2.
 - Hammer Curl 5 kg each hand: 6 / 6 / 6, target RIR 2.
-- Bench Press 25 kg: 6 / 6 / 6, RIR 0 / 0 / 0.
-- Weighted Crunch 45 kg: 8 / 8 / 10, target RIR 2.
+- Weighted Crunch 45 kg: 10 / 10 / 10, target RIR 2.
 - Hanging Leg Raise: 10 / 10 / 10, target RIR 2.
 
 Progression Decisions:
 
-- Assisted Pull-Up should not progress yet. Use -45 kg assistance with stricter reps or increase assistance to keep all reps clean.
-- Seated Cable Row can stay at 30 kg.
-- Lat Pulldown can stay at 50 kg.
-- Dumbbell Curl 5 kg test was completed but not a clean pass due to body sway. Next target is 5 kg for 3 sets of 5-6 strict reps, or return to 3 kg if the left side breaks down.
-- Hammer Curl 5 kg test is acceptable as a low-rep test. Keep 5 kg and build strict 6-rep sets before adding reps.
-- Bench Press 25 kg hit RIR 0 on all sets. Use 20 kg for controlled hypertrophy work or keep 25 kg only with lower target reps and RIR 1-2.
-- Weighted Crunch 45 kg should progress toward 10 / 10 / 10 with target RIR 2.
-- Hanging Leg Raise remains effective; monitor calf cramping history.
-- Lower-body loading remains paused due to right knee pain from earlier today.
+- Chest Press stays at 40 kg. Next target: 9 / 9 / 9 / 8 with target RIR 2.
+- Lat Pulldown stays at 50 kg. Next target: 9 / 9 / 9 / 9 only if reps stay back-driven without arm compensation.
+- Seated Cable Row stays at 30 kg.
+- Bench Press should stay at 20 kg for controlled hypertrophy work.
+- Lateral Raise at 5 kg is a low-rep test. Main hypertrophy load should remain 3 kg until 10-12+ reps are controlled, or 5 kg should be kept to strict 5-6 rep testing.
+- Tricep Pushdown stays at 15 kg and builds toward 12 reps.
+- Dumbbell Curl 5 kg can continue as a strict low-rep test only.
+- Hammer Curl 5 kg can continue as a strict low-rep test only.
+- Weighted Crunch 45 kg reached 10 / 10 / 10. Repeat once more before increasing load or reps.
+- Hanging Leg Raise remains effective.
+- Lower-body loading remains paused until right knee is pain-free during daily movement and warm-up.
 
 ---
 
