@@ -67,7 +67,7 @@ Current:
 50 kg
 
 Target:
-4 sets of 9-10 reps with strict form
+4 sets of 10 reps with strict form
 
 Upgrade:
 Next upgrade rule to be defined after 50 kg reaches controlled 4 sets of 12 reps
@@ -182,23 +182,22 @@ Nutrition Decision:
 
 ---
 
-## Next Week Gym Plan
+## Current Week Gym Plan
 
 Week:
-2026-06-22 to 2026-06-28
+2026-06-29 to 2026-07-05
 
 Gym Days:
 
-- Tuesday 2026-06-23: Upper A.
-- Thursday 2026-06-25: Pull.
-- Saturday 2026-06-27: Legs, knee-aware.
+- Wednesday 2026-07-01: Upper A.
+- Saturday 2026-07-04: Pull + Arms + Abs.
+- Lower-body training remains paused due to right knee symptoms.
 
 Main Objectives:
 
 - Continue Chest Press 40 kg with RIR 2 control.
-- Continue Lat Pulldown 50 kg and aim for 4 sets of 9+ with RIR 1-2.
-- Complete Pull with enough back volume and avoid every accessory set reaching failure.
-- Complete Legs on Saturday only if right knee is pain-free during warm-up. Use reduced knee-dominant load if needed.
+- Continue Lat Pulldown 50 kg and build toward 4 sets of 10 with strict form.
+- Keep upper-body training active while knee loading is paused.
 - Keep abdominal training 2-3 times this week for visible eight-pack development.
 
 ---
@@ -206,36 +205,35 @@ Main Objectives:
 ## Latest Workout Log
 
 Date:
-2026-07-01
+2026-07-04
 
 Workout:
-Upper A
+Pull + Arms + Abs
 
 Key Results:
 
-- Chest Press 40 kg: 8 / 8 / 9 / 8, target RIR 2.
-- Lat Pulldown 50 kg: 9 / 9 / 9 / 8, target RIR 2. Arm compensation/fatigue appeared around set 3.
+- Lat Pulldown 50 kg: 9 / 9 / 9 / 9, target RIR 2.
 - Seated Cable Row 30 kg: 8 / 8 / 8, target RIR 2.
-- Bench Press 20 kg: 8 / 8 / 8, target RIR 2.
-- Dumbbell Lateral Raise 5 kg each hand: 6 / 6 / 6, target RIR 2.
-- Tricep Pushdown 15 kg: 10 / 10 / 10, target RIR 2.
+- Assisted Pull-Up -45 kg assistance: 7 / 7 / 7 / 7, target RIR 2. Improved strictness with no swinging reported on set 3.
 - Dumbbell Curl 5 kg each hand: 6 / 6 / 6, target RIR 2.
 - Hammer Curl 5 kg each hand: 6 / 6 / 6, target RIR 2.
-- Weighted Crunch 45 kg: 10 / 10 / 10, target RIR 2.
+- Tricep Pushdown: 15 kg x 12 / 15 kg x 12 / 20 kg x 8, target RIR 2.
+- Weighted Crunch 50 kg: 8 / 8 / 8, target RIR 2.
 - Hanging Leg Raise: 10 / 10 / 10, target RIR 2.
+- Roman Chair Russian Twist: 3 sets of 10 each side, RIR 0.
+- Roman Chair Sit-Up: 8 / 8 / 8, RIR 2.
 
 Progression Decisions:
 
-- Chest Press stays at 40 kg. Next target: 9 / 9 / 9 / 8 with target RIR 2.
-- Lat Pulldown stays at 50 kg. Next target: 9 / 9 / 9 / 9 only if reps stay back-driven without arm compensation.
+- Lat Pulldown stays at 50 kg. Next target: 10 / 9 / 9 / 9 or 10 / 10 / 9 / 9 with strict form and target RIR 2.
 - Seated Cable Row stays at 30 kg.
-- Bench Press should stay at 20 kg for controlled hypertrophy work.
-- Lateral Raise at 5 kg is a low-rep test. Main hypertrophy load should remain 3 kg until 10-12+ reps are controlled, or 5 kg should be kept to strict 5-6 rep testing.
-- Tricep Pushdown stays at 15 kg and builds toward 12 reps.
+- Assisted Pull-Up stays at -45 kg assistance. Next target: 8 / 7 / 7 / 7 with strict reps only.
 - Dumbbell Curl 5 kg can continue as a strict low-rep test only.
 - Hammer Curl 5 kg can continue as a strict low-rep test only.
-- Weighted Crunch 45 kg reached 10 / 10 / 10. Repeat once more before increasing load or reps.
+- Tricep Pushdown should use 15 kg as the main working weight until 3 sets of 12 are controlled before using 20 kg.
+- Weighted Crunch increased to 50 kg. Keep 50 kg and build toward 3 sets of 10 with target RIR 2.
 - Hanging Leg Raise remains effective.
+- Roman Chair Russian Twist is optional; avoid repeated abdominal failure if recovery or hip flexors suffer.
 - Lower-body loading remains paused until right knee is pain-free during daily movement and warm-up.
 
 ---
