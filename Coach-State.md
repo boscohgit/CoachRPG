@@ -250,6 +250,13 @@ Cramped during Hanging Leg Raise on 2026-06-20. Monitor hydration, sodium and ca
 
 ---
 
+## Equipment Notes
+
+Rowing Equipment:
+The available rowing station is Seated Cable Row. Previous entries labeled as Static Row / Machine Row / Seated Row should be treated as Seated Cable Row unless explicitly stated otherwise. Do not program separate Machine Row or Static Row by default.
+
+---
+
 ## Coach Notes
 
 User is naturally lean.
