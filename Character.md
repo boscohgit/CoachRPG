@@ -67,6 +67,31 @@ Data Driven
 
 ---
 
+## Chronic Pain History
+
+Right Shoulder / Right Anterior Chest / Right Scapula:
+Persistent pain for 5-6 years.
+
+Triggers:
+
+- Side-lying phone use.
+- Prolonged neck flexion while using phone.
+- Arm elevation can produce joint/bone clicking.
+
+Treatment History:
+Acupuncture, physical therapy and massage/manual therapy have provided limited relief.
+
+Training Response:
+Planned resistance training, including bench press and lat pulldown patterns, tends to noticeably improve symptoms after sessions.
+
+Medical Follow-Up:
+MRI planned for Monday 2026-07-13.
+
+Training Implication:
+Continue resistance training conservatively if symptoms improve, but avoid pain-provoking ranges, uncontrolled reps and aggressive load increases until MRI results are reviewed.
+
+---
+
 ## Current Strength Reference
 
 Chest Press Machine:

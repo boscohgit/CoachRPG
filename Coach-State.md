@@ -202,6 +202,27 @@ Main Objectives:
 
 ---
 
+## Upcoming Medical Assessment
+
+Right Shoulder / Right Anterior Chest / Right Scapula:
+User reports persistent pain for 5-6 years. Pain is triggered by side-lying phone use and prolonged neck flexion while using phone. Arm elevation can produce clicking. Acupuncture, physical therapy and massage/manual therapy have had limited effect.
+
+Training Response:
+Resistance training sessions, including bench press and lat pulldown patterns, tend to noticeably improve symptoms after training.
+
+MRI:
+Scheduled for Monday 2026-07-13.
+
+Training Adjustment Until MRI:
+
+- Continue upper-body training if symptoms improve and no sharp pain occurs.
+- Use target RIR 2-3 on pressing and pulling.
+- Avoid aggressive load increases before MRI results are reviewed.
+- Avoid painful ranges, uncontrolled reps, behind-neck positions and repeated failure sets.
+- Track shoulder/chest/scapula symptoms after every upper-body session.
+
+---
+
 ## Latest Workout Log
 
 Date:
@@ -245,6 +266,9 @@ Pain appeared during Leg Press on 2026-06-20 and recurred on 2026-06-27 at 45 kg
 
 Right Calf:
 Cramped during Hanging Leg Raise on 2026-06-20. Monitor hydration, sodium and calf fatigue.
+
+Right Shoulder / Right Anterior Chest / Right Scapula:
+Chronic pain for 5-6 years. Triggered by side-lying phone use and prolonged neck flexion. Arm elevation can click. Training often improves symptoms. MRI scheduled for 2026-07-13. Keep upper-body training conservative and symptom-guided until imaging is reviewed.
 
 ---
 
