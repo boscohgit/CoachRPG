@@ -4,7 +4,7 @@ Current Phase:
 Phase 1 - Hypertrophy Foundation
 
 Week:
-Week 5
+Week 6
 
 Current Body Weight:
 62.5 kg
@@ -185,13 +185,13 @@ Nutrition Decision:
 ## Current Week Gym Plan
 
 Week:
-2026-06-29 to 2026-07-05
+2026-07-06 to 2026-07-12
 
 Gym Days:
 
-- Wednesday 2026-07-01: Upper A.
-- Saturday 2026-07-04: Pull + Arms + Abs.
-- Lower-body training remains paused due to right knee symptoms.
+- Tuesday 2026-07-07: Upper A, shoulder-friendly.
+- Next session should remain upper-body / shoulder-friendly until MRI on 2026-07-13.
+- Lower-body loading remains paused unless right knee is pain-free during daily movement and warm-up.
 
 Main Objectives:
 
@@ -284,36 +284,40 @@ Reduce side-lying phone use and long neck-flexed phone use because these are con
 ## Latest Workout Log
 
 Date:
-2026-07-04
+2026-07-07
 
 Workout:
-Pull + Arms + Abs
+Upper A
 
 Key Results:
 
-- Lat Pulldown 50 kg: 9 / 9 / 9 / 9, target RIR 2.
-- Seated Cable Row 30 kg: 8 / 8 / 8, target RIR 2.
-- Assisted Pull-Up -45 kg assistance: 7 / 7 / 7 / 7, target RIR 2. Improved strictness with no swinging reported on set 3.
-- Dumbbell Curl 5 kg each hand: 6 / 6 / 6, target RIR 2.
-- Hammer Curl 5 kg each hand: 6 / 6 / 6, target RIR 2.
-- Tricep Pushdown: 15 kg x 12 / 15 kg x 12 / 20 kg x 8, target RIR 2.
-- Weighted Crunch 50 kg: 8 / 8 / 8, target RIR 2.
+- Warm-up: pec minor stretch and band external rotation completed; foam roller thoracic extension and Face Pull not performed.
+- Chest Press 40 kg: 10 / 10 / 8 / 8, target RIR 3. Right shoulder clicked twice during set 1.
+- Lat Pulldown 50 kg: 10 / 10 / 9 / 9, target RIR 2. Forearm reached failure on set 4.
+- Seated Cable Row 30 kg: 8 / 10 / 10 / 8, target RIR 2.
+- Incline Dumbbell Bench Press 10 kg each hand: 10 / 10 / 10, target RIR 3.
+- Tricep Pushdown 15 kg: 12 / 12 / 10, target RIR 2.
+- Dumbbell Curl 5 kg each hand: 8 / 8 / 8, target RIR 2.
+- Hammer Curl 5 kg each hand: 8 / 8 / 8, target RIR 2.
+- Weighted Crunch 50 kg: 10 / 10 / 8, target RIR 2.
 - Hanging Leg Raise: 10 / 10 / 10, target RIR 2.
-- Roman Chair Russian Twist: 3 sets of 10 each side, RIR 0.
-- Roman Chair Sit-Up: 8 / 8 / 8, RIR 2.
+- Right knee: no pain.
+- Right shoulder / right anterior chest / right scapula: mild pain.
 
 Progression Decisions:
 
-- Lat Pulldown stays at 50 kg. Next target: 10 / 9 / 9 / 9 or 10 / 10 / 9 / 9 with strict form and target RIR 2.
+- Chest Press stays at 40 kg but should return to 8 / 8 / 8 / 8 with target RIR 3 next session due to clicking and mild shoulder symptoms.
+- Lat Pulldown stays at 50 kg. Next target should not exceed 10 / 10 / 9 / 9 until reps are back-driven and forearms do not fail first.
 - Seated Cable Row stays at 30 kg.
-- Assisted Pull-Up stays at -45 kg assistance. Next target: 8 / 7 / 7 / 7 with strict reps only.
-- Dumbbell Curl 5 kg can continue as a strict low-rep test only.
-- Hammer Curl 5 kg can continue as a strict low-rep test only.
-- Tricep Pushdown should use 15 kg as the main working weight until 3 sets of 12 are controlled before using 20 kg.
-- Weighted Crunch increased to 50 kg. Keep 50 kg and build toward 3 sets of 10 with target RIR 2.
+- Incline Dumbbell Bench Press can continue only if shoulder symptoms do not worsen; keep RIR 3.
+- Face Pull should be prioritized next upper session because it was skipped today.
+- Tricep Pushdown stays at 15 kg and builds toward 12 / 12 / 12.
+- Dumbbell Curl 5 kg can progress cautiously only if strict form is maintained.
+- Hammer Curl 5 kg can progress cautiously only if strict form is maintained.
+- Weighted Crunch 50 kg should build toward 10 / 10 / 10.
 - Hanging Leg Raise remains effective.
-- Roman Chair Russian Twist is optional; avoid repeated abdominal failure if recovery or hip flexors suffer.
-- Lower-body loading remains paused until right knee is pain-free during daily movement and warm-up.
+- Right knee was pain-free today, but lower-body loading remains paused until pain-free warm-up and gradual reintroduction are planned.
+- Right shoulder symptoms require conservative pressing until MRI review.
 
 ---
 
