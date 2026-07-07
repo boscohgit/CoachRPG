@@ -223,6 +223,64 @@ Training Adjustment Until MRI:
 
 ---
 
+## Shoulder Prehab Protocol
+
+Frequency:
+Daily, and before upper-body training as warm-up.
+
+Warm-Up:
+
+- Foam roller thoracic extension: 2 minutes.
+- Pec minor stretch: 60 seconds each side.
+- Cat-cow: 15 reps.
+
+Activation:
+
+- Face Pull: 3 sets of 15-20 reps.
+- Push-up Plus: 3 sets of 15 reps.
+- Band External Rotation: 3 sets of 15 reps.
+- Wall Angel: 2 sets of 10 slow reps without shrugging.
+
+Cool-Down:
+
+- Levator scapulae stretch: 30-45 seconds each side.
+- Upper trapezius stretch: 30-45 seconds each side.
+
+Purpose:
+Improve thoracic extension, reduce anterior shoulder tightness, strengthen serratus anterior / lower trapezius / external rotators, and improve scapular mechanics.
+
+Pain Rule:
+These drills should feel like activation or stretching, not sharp pain. Stop or reduce range if symptoms increase.
+
+---
+
+## Training Plan Adjustment
+
+Reason:
+Long-term right shoulder / right anterior chest / right scapula symptoms may be related to chronic phone posture, pec minor tightness, reduced serratus anterior / lower trapezius contribution, and shoulder girdle imbalance. MRI is scheduled for 2026-07-13, so training should support symptom reduction without aggressive loading.
+
+Back Volume:
+Increase weekly back/scapular volume, but do not double Lat Pulldown from 4 sets to 8 sets immediately.
+
+Implementation:
+
+- Keep Lat Pulldown at 4 working sets.
+- Add scapular-friendly back volume through Face Pull, Seated Cable Row, and Assisted Pull-Up instead of only adding more pulldown sets.
+- Target weekly pull volume higher than press volume while symptoms persist.
+- Use controlled RIR 2-3 on pressing and pulling before MRI.
+- Avoid failure sets on shoulder-involved movements.
+
+Pressing:
+
+- Chest Press and Bench Press may continue if they reduce symptoms and do not create sharp pain.
+- Avoid heavy progression and repeated RIR 0 before MRI.
+- Keep pressing volume moderate and balanced with more pulling/scapular work.
+
+Posture Rule:
+Reduce side-lying phone use and long neck-flexed phone use because these are consistent symptom triggers.
+
+---
+
 ## Latest Workout Log
 
 Date:
