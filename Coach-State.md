@@ -284,40 +284,37 @@ Reduce side-lying phone use and long neck-flexed phone use because these are con
 ## Latest Workout Log
 
 Date:
-2026-07-07
+2026-07-09
 
 Workout:
-Upper A
+Pull + Shoulder Prehab + Abs
 
 Key Results:
 
-- Warm-up: pec minor stretch and band external rotation completed; foam roller thoracic extension and Face Pull not performed.
-- Chest Press 40 kg: 10 / 10 / 8 / 8, target RIR 3. Right shoulder clicked twice during set 1.
-- Lat Pulldown 50 kg: 10 / 10 / 9 / 9, target RIR 2. Forearm reached failure on set 4.
-- Seated Cable Row 30 kg: 8 / 10 / 10 / 8, target RIR 2.
-- Incline Dumbbell Bench Press 10 kg each hand: 10 / 10 / 10, target RIR 3.
-- Tricep Pushdown 15 kg: 12 / 12 / 10, target RIR 2.
-- Dumbbell Curl 5 kg each hand: 8 / 8 / 8, target RIR 2.
-- Hammer Curl 5 kg each hand: 8 / 8 / 8, target RIR 2.
-- Weighted Crunch 50 kg: 10 / 10 / 8, target RIR 2.
+- Prehab: pec minor stretch completed; band external rotation 5 kg 8 / 8 per side for 2 sets; Face Pull 10 kg 15 / 15 / 15 / 15.
+- Lat Pulldown 50 kg: 10 / 10 / 9 / 7, target RIR 3. Fourth set reached complete failure.
+- Seated Cable Row 30 kg: 8 / 8 / 8 / 8, target RIR 2-3.
+- Assisted Pull-Up -45 kg assistance: 7 / 7 / 6 / 6, target RIR 3.
+- Tricep Pushdown 15 kg: 12 / 12 / 12, target RIR 2.
+- Dumbbell Curl 5 kg each hand: 8 / 8 / 6, target RIR 2.
+- Hammer Curl 5 kg each hand: 8 / 8 / 6, target RIR 2.
+- Bench Press: 20 kg x 8 / 20 kg x 8 / 25 kg x 6 / 25 kg x 6.
+- Weighted Crunch 50 kg: 10 / 10 / 10, target RIR 2.
 - Hanging Leg Raise: 10 / 10 / 10, target RIR 2.
-- Right knee: no pain.
-- Right shoulder / right anterior chest / right scapula: mild pain.
 
 Progression Decisions:
 
-- Chest Press stays at 40 kg but should return to 8 / 8 / 8 / 8 with target RIR 3 next session due to clicking and mild shoulder symptoms.
-- Lat Pulldown stays at 50 kg. Next target should not exceed 10 / 10 / 9 / 9 until reps are back-driven and forearms do not fail first.
+- Lat Pulldown stays at 50 kg, but next target should be reduced to 10 / 9 / 9 / 8 or 45 kg if forearm/form fails first. Avoid failure before MRI.
 - Seated Cable Row stays at 30 kg.
-- Incline Dumbbell Bench Press can continue only if shoulder symptoms do not worsen; keep RIR 3.
-- Face Pull should be prioritized next upper session because it was skipped today.
-- Tricep Pushdown stays at 15 kg and builds toward 12 / 12 / 12.
+- Assisted Pull-Up stays at -45 kg assistance with strict reps.
+- Face Pull should remain in the warm-up/prehab block.
+- Tricep Pushdown 15 kg reached 12 / 12 / 12. Repeat once before testing 20 kg as a main working load.
 - Dumbbell Curl 5 kg can progress cautiously only if strict form is maintained.
 - Hammer Curl 5 kg can progress cautiously only if strict form is maintained.
-- Weighted Crunch 50 kg should build toward 10 / 10 / 10.
+- Bench Press was added despite the shoulder-friendly pull plan. Keep pressing conservative at RIR 2-3 until MRI review.
+- Weighted Crunch 50 kg reached 10 / 10 / 10. Repeat once more before increasing.
 - Hanging Leg Raise remains effective.
-- Right knee was pain-free today, but lower-body loading remains paused until pain-free warm-up and gradual reintroduction are planned.
-- Right shoulder symptoms require conservative pressing until MRI review.
+- Upper-body training volume is sufficient. Current limiting factors for visible change are inconsistent bodyweight gain, paused leg training due to knee symptoms, and occasional failure sets despite the pre-MRI conservative plan.
 
 ---
 
