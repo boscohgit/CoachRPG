@@ -36,8 +36,11 @@ Use this daily and before upper-body training.
 
 # Monday - Push
 
-Chest Press
+Seated Machine Chest Press
 4 × 8-10, RIR 2-3
+
+Barbell Bench Press
+20 kg working load only, 3 × 8, RIR 2-3. Do not treat 25 kg as the default working load yet.
 
 Dumbbell Bench Press
 3 × 8-12, RIR 2-3
@@ -104,8 +107,11 @@ Optional only if knee-free and calf cramp-free
 
 # Sunday - Upper
 
-Chest Press
+Seated Machine Chest Press
 3 × 8-10, RIR 2-3
+
+Barbell Bench Press
+Optional 20 kg technique work only before MRI review
 
 Lat Pulldown
 3-4 × 8-12, RIR 2-3
