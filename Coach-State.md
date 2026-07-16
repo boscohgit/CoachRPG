@@ -305,38 +305,40 @@ Reduce side-lying phone use and long neck-flexed phone use because these are con
 ## Latest Workout Log
 
 Date:
-2026-07-14
+2026-07-16
 
 Workout:
-Upper A, Shoulder-Friendly
+Pull + Shoulder Prehab + Abs, Shoulder-Friendly / Low-Back-Aware
 
 Key Results:
 
-- Prehab: pec minor stretch 60 seconds each side; band external rotation left 15 / 15 and right 10 / 10, target RIR 4; Face Pull 10 kg 15 / 15 / 15, target RIR 4.
-- Seated Machine Chest Press 35 kg: 8 / 8 / 8 / 8, target RIR 3.
-- Barbell Bench Press 20 kg: 8 / 8 / 8 / 6, technique work.
-- Lat Pulldown 50 kg: 9 / 9 / 8 / 8, target RIR 3.
-- Seated Cable Row 30 kg: 10 / 8 / 8 / 8, target RIR 3; left arm reached failure on the final set.
-- Dumbbell Lateral Raise 2.5 kg each hand: 15 / 10 / 10, target RIR 3.
-- Tricep Pushdown: 15 kg x 12 / 15 kg x 12 / 20 kg x 6, target RIR 2.
-- Dumbbell Curl 5 kg each hand: 8 / 8 / 6, target RIR 2-3.
-- Hammer Curl 5 kg each hand: 8 / 8 / 6, target RIR 2-3.
-- Weighted Crunch 50 kg: 10 / 10 / 10, target RIR 2.
+- Prehab: pec minor stretch 60 seconds each side; band external rotation left 15 / 15 / 15 and right 15 / 15 / 15, target RIR 4; band internal rotation completed for 3 sets each side; Face Pull 10 kg 15 / 15 / 15, target RIR 4.
+- Lat Pulldown 50 kg: 8 / 8 / 8 / not recorded, target RIR 3-4.
+- Seated Cable Row 25 kg: 8 / 10 / 10, target RIR 3.
+- Assisted Pull-Up -45 kg assistance: 7 / 7 / 7, target RIR 3.
+- Dumbbell Curl 5 kg each hand: not recorded.
+- Hammer Curl 5 kg each hand: not recorded.
+- Tricep Pushdown 15 kg: 12 / 10 / 10, target RIR 2-3.
+- Weighted Crunch 45 kg: 10 / 10 / 10, target RIR 3.
+- Hanging Leg Raise: 10 / 10 / 10.
+- Russian Twist 10 kg: 8 / 8 / 8 each side.
+- Roman Chair Sit-Up: 8 / 8 / 8.
 
 Progression Decisions:
 
 - Seated Machine Chest Press and Barbell Bench Press must remain separate in planning and logs.
 - Seated Machine Chest Press stays at 35 kg for the next pressing session; use conservative RIR before MRI review.
 - Barbell Bench Press working load remains 20 kg; 25 kg is only a test load and should not be treated as the default.
-- Lat Pulldown stays at 50 kg with target RIR 3 before MRI review. Avoid failure and stop if forearm/form fails first.
-- Seated Cable Row stays at 30 kg; do not increase until left arm can finish all sets cleanly.
-- Assisted Pull-Up stays at -45 kg assistance with strict reps.
+- Lat Pulldown stays at 50 kg with target RIR 3-4 before MRI review. Avoid failure and stop if forearm/form fails first.
+- Seated Cable Row should use 25 kg while lower-back soreness is present; return to 30 kg only when torso control is clean.
+- Assisted Pull-Up stays at -45 kg assistance with strict reps; 7 / 7 / 7 is a good current strict-rep marker.
 - Face Pull should remain in the warm-up/prehab block.
 - Tricep Pushdown stays at 15 kg with stricter RIR control; 20 kg is not yet the default working load.
 - Dumbbell Curl and Hammer Curl stay at 5 kg with strict form.
 - Dumbbell Lateral Raise should use 2.5-3 kg during the shoulder-friendly block.
-- Weighted Crunch stays at 50 kg.
+- Weighted Crunch should stay at 45 kg when lower-back soreness is present; return to 50 kg only when lower back is calm.
 - Hanging Leg Raise remains useful, but hanging grip/shoulders may limit the set before the abs do.
+- Abdominal volume was high on 2026-07-16 despite lower-back caution. Next session should reduce spinal-flexion volume if lower-back soreness persists.
 - Upper-body training volume remains sufficient. Current limiting factors for visible change are inconsistent bodyweight gain, paused leg training due to knee symptoms, and MRI-related conservative loading.
 
 ---
@@ -348,6 +350,9 @@ Pain appeared during Leg Press on 2026-06-20 and recurred on 2026-06-27 at 45 kg
 
 Right Calf:
 Cramped during Hanging Leg Raise on 2026-06-20. Monitor hydration, sodium and calf fatigue.
+
+Lower Back:
+Lower-back soreness was reported before the 2026-07-16 pull session, described as feeling like high-volume back extension work despite not performing it. Likely contributors to monitor are torso lean during Seated Cable Row, excessive arching during Lat Pulldown / Assisted Pull-Up, and spinal extension during hanging abdominal work. Use reduced row load and lower abdominal volume if soreness persists.
 
 Right Shoulder / Right Anterior Chest / Right Scapula:
 Chronic pain for 5-6 years. Triggered by side-lying phone use and prolonged neck flexion. Arm elevation can click. Training often improves symptoms. MRI scheduled for 2026-08-02. Keep upper-body training conservative and symptom-guided until imaging is reviewed.
