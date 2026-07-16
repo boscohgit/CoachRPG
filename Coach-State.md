@@ -204,17 +204,17 @@ Nutrition Decision:
 ## Current Week Gym Plan
 
 Week:
-2026-07-06 to 2026-07-12
+2026-07-13 to 2026-07-19
 
 Gym Days:
 
-- Tuesday 2026-07-07: Upper A, shoulder-friendly.
-- Next session should remain upper-body / shoulder-friendly until MRI on 2026-07-13.
+- Tuesday 2026-07-14: Upper A, shoulder-friendly.
+- Thursday 2026-07-16: Pull + Shoulder Prehab + Abs, shoulder-friendly.
 - Lower-body loading remains paused unless right knee is pain-free during daily movement and warm-up.
 
 Main Objectives:
 
-- Continue upper-body training with conservative pressing until MRI.
+- Continue upper-body training with conservative pressing until MRI results are reviewed.
 - Track Seated Machine Chest Press separately from Barbell Bench Press.
 - Use Seated Machine Chest Press 35-40 kg only if symptoms stay calm; Barbell Bench Press working load remains 20 kg.
 - Continue Lat Pulldown 50 kg and build toward 4 sets of 10 with strict form.
@@ -232,12 +232,12 @@ Training Response:
 Resistance training sessions, including bench press and lat pulldown patterns, tend to noticeably improve symptoms after training.
 
 MRI:
-Scheduled for Monday 2026-07-13.
+Scheduled for Sunday 2026-08-02.
 
 Training Adjustment Until MRI:
 
 - Continue upper-body training if symptoms improve and no sharp pain occurs.
-- Use target RIR 2-3 on pressing and pulling.
+- Use target RIR 2-4 on pressing and pulling depending on symptoms.
 - Avoid aggressive load increases before MRI results are reviewed.
 - Avoid painful ranges, uncontrolled reps, behind-neck positions and repeated failure sets.
 - Track shoulder/chest/scapula symptoms after every upper-body session.
@@ -278,7 +278,7 @@ These drills should feel like activation or stretching, not sharp pain. Stop or 
 ## Training Plan Adjustment
 
 Reason:
-Long-term right shoulder / right anterior chest / right scapula symptoms may be related to chronic phone posture, pec minor tightness, reduced serratus anterior / lower trapezius contribution, and shoulder girdle imbalance. MRI is scheduled for 2026-07-13, so training should support symptom reduction without aggressive loading.
+Long-term right shoulder / right anterior chest / right scapula symptoms may be related to chronic phone posture, pec minor tightness, reduced serratus anterior / lower trapezius contribution, and shoulder girdle imbalance. MRI is scheduled for 2026-08-02, so training should support symptom reduction without aggressive loading.
 
 Back Volume:
 Increase weekly back/scapular volume, but do not double Lat Pulldown from 4 sets to 8 sets immediately.
@@ -288,13 +288,13 @@ Implementation:
 - Keep Lat Pulldown at 4 working sets.
 - Add scapular-friendly back volume through Face Pull, Seated Cable Row, and Assisted Pull-Up instead of only adding more pulldown sets.
 - Target weekly pull volume higher than press volume while symptoms persist.
-- Use controlled RIR 2-3 on pressing and pulling before MRI.
+- Use controlled RIR 2-3 on pressing and pulling before MRI review.
 - Avoid failure sets on shoulder-involved movements.
 
 Pressing:
 
 - Chest Press and Bench Press may continue if they reduce symptoms and do not create sharp pain.
-- Avoid heavy progression and repeated RIR 0 before MRI.
+- Avoid heavy progression and repeated RIR 0 before MRI review.
 - Keep pressing volume moderate and balanced with more pulling/scapular work.
 
 Posture Rule:
@@ -305,36 +305,37 @@ Reduce side-lying phone use and long neck-flexed phone use because these are con
 ## Latest Workout Log
 
 Date:
-2026-07-11
+2026-07-14
 
 Workout:
-Upper Recovery / Pre-MRI
+Upper A, Shoulder-Friendly
 
 Key Results:
 
-- Prehab: pec minor stretch 60 seconds each side; band external rotation 15 / 15 each side, target RIR 4; Face Pull 10 kg 15 / 15 / 15, target RIR 4.
-- Seated Cable Row 30 kg: 8 / 8 / 8 / 8, target RIR 3.
-- Lat Pulldown 50 kg: 10 / 9 / 8 / 8, target RIR 3.
-- Assisted Pull-Up -45 kg assistance: 6 / 6 / 6, target RIR 3.
-- Seated Machine Chest Press 35 kg: 8 / 8 / 8, target RIR 4.
-- Tricep Pushdown 15 kg: 15 / 10 / 10, target RIR 3.
-- Dumbbell Curl 5 kg each hand: 8 / 6 / 6, target RIR 3.
-- Hammer Curl 5 kg each hand: 6 / 6 / 7, target RIR 3.
-- Weighted Crunch 50 kg: 10 / 10 / 10 / 10, target RIR 2.
-- Hanging Leg Raise: 10 / 10 / 10, target RIR 2.
+- Prehab: pec minor stretch 60 seconds each side; band external rotation left 15 / 15 and right 10 / 10, target RIR 4; Face Pull 10 kg 15 / 15 / 15, target RIR 4.
+- Seated Machine Chest Press 35 kg: 8 / 8 / 8 / 8, target RIR 3.
+- Barbell Bench Press 20 kg: 8 / 8 / 8 / 6, technique work.
+- Lat Pulldown 50 kg: 9 / 9 / 8 / 8, target RIR 3.
+- Seated Cable Row 30 kg: 10 / 8 / 8 / 8, target RIR 3; left arm reached failure on the final set.
+- Dumbbell Lateral Raise 2.5 kg each hand: 15 / 10 / 10, target RIR 3.
+- Tricep Pushdown: 15 kg x 12 / 15 kg x 12 / 20 kg x 6, target RIR 2.
+- Dumbbell Curl 5 kg each hand: 8 / 8 / 6, target RIR 2-3.
+- Hammer Curl 5 kg each hand: 8 / 8 / 6, target RIR 2-3.
+- Weighted Crunch 50 kg: 10 / 10 / 10, target RIR 2.
 
 Progression Decisions:
 
 - Seated Machine Chest Press and Barbell Bench Press must remain separate in planning and logs.
-- Seated Machine Chest Press stays at 35-40 kg depending on shoulder symptoms; use conservative RIR before MRI.
+- Seated Machine Chest Press stays at 35 kg for the next pressing session; use conservative RIR before MRI review.
 - Barbell Bench Press working load remains 20 kg; 25 kg is only a test load and should not be treated as the default.
-- Lat Pulldown stays at 50 kg with target RIR 3 before MRI. Avoid failure and stop if forearm/form fails first.
-- Seated Cable Row stays at 30 kg.
+- Lat Pulldown stays at 50 kg with target RIR 3 before MRI review. Avoid failure and stop if forearm/form fails first.
+- Seated Cable Row stays at 30 kg; do not increase until left arm can finish all sets cleanly.
 - Assisted Pull-Up stays at -45 kg assistance with strict reps.
 - Face Pull should remain in the warm-up/prehab block.
-- Tricep Pushdown stays at 15 kg with stricter RIR control.
+- Tricep Pushdown stays at 15 kg with stricter RIR control; 20 kg is not yet the default working load.
 - Dumbbell Curl and Hammer Curl stay at 5 kg with strict form.
-- Weighted Crunch 50 kg reached 4 sets of 10 and can progress after MRI week if recovery is good.
+- Dumbbell Lateral Raise should use 2.5-3 kg during the shoulder-friendly block.
+- Weighted Crunch stays at 50 kg.
 - Hanging Leg Raise remains useful, but hanging grip/shoulders may limit the set before the abs do.
 - Upper-body training volume remains sufficient. Current limiting factors for visible change are inconsistent bodyweight gain, paused leg training due to knee symptoms, and MRI-related conservative loading.
 
@@ -349,7 +350,7 @@ Right Calf:
 Cramped during Hanging Leg Raise on 2026-06-20. Monitor hydration, sodium and calf fatigue.
 
 Right Shoulder / Right Anterior Chest / Right Scapula:
-Chronic pain for 5-6 years. Triggered by side-lying phone use and prolonged neck flexion. Arm elevation can click. Training often improves symptoms. MRI scheduled for 2026-07-13. Keep upper-body training conservative and symptom-guided until imaging is reviewed.
+Chronic pain for 5-6 years. Triggered by side-lying phone use and prolonged neck flexion. Arm elevation can click. Training often improves symptoms. MRI scheduled for 2026-08-02. Keep upper-body training conservative and symptom-guided until imaging is reviewed.
 
 ---
 

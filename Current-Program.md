@@ -6,7 +6,7 @@ Period:
 2026-06-01 to 2026-08-31
 
 Temporary Adjustment:
-Right shoulder / right anterior chest / right scapula symptoms are under medical review. MRI scheduled for 2026-07-13. Until MRI results are reviewed, use shoulder-friendly upper-body training with RIR 2-3, no repeated failure sets, and no aggressive load jumps.
+Right shoulder / right anterior chest / right scapula symptoms are under medical review. MRI scheduled for 2026-08-02. Until MRI results are reviewed, use shoulder-friendly upper-body training with RIR 2-4, no repeated failure sets, and no aggressive load jumps.
 
 ---
 
