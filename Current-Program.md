@@ -62,10 +62,10 @@ Tricep Pushdown
 # Wednesday - Pull
 
 Lat Pulldown
-4 × 8-12, RIR 2-3
+55 kg provisional working load, 4 total working sets × 8-10, RIR 2-3. Use one grip per session and do not repeat 8 total pulldown sets by combining grip variations.
 
 Seated Cable Row
-4 × 8-12, RIR 2-3
+25 kg while monitoring the lower back, 3-4 × 8-12, RIR 2-3
 
 Machine Row
 Do not program by default; only Seated Cable Row is available
@@ -86,10 +86,10 @@ Face Pull
 
 # Friday - Legs
 
-Paused / knee-aware until right knee is pain-free during daily movement and warm-up.
+Knee-aware reintroduction. Normal walking must be pain-free and every loaded set must remain within a pain-free range.
 
 Leg Press
-Paused
+30 kg, 3 × 10, RIR 3. Do not use the previously painful deep-knee-bend range and do not increase load until the same-day and next-day response are pain-free.
 
 Leg Extension
 Paused
@@ -98,7 +98,7 @@ Leg Curl
 Paused
 
 Bulgarian Split Squat
-Paused
+Loaded version paused because the movement reproduced right medial knee pain. Re-test bodyweight only after symptoms settle.
 
 Standing Calf Raise
 Optional only if knee-free and calf cramp-free

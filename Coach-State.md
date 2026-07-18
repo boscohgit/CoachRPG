@@ -7,7 +7,7 @@ Week:
 Week 6
 
 Current Body Weight:
-62.5 kg
+60.9 kg
 
 Target Body Weight:
 66 kg
@@ -57,10 +57,10 @@ Current:
 20 kg stable working load
 
 Test Load:
-25 kg for low-rep testing only
+25 kg upper test load; completed 4 sets of 8 at RIR 1 on 2026-07-17
 
 Target:
-3 sets of 8 reps with RIR 2-3 before increasing working load
+25 kg for 4 sets of 6-8 reps with RIR 2-3 and no worsening shoulder symptoms before treating it as the default working load
 
 Note:
 Do not prescribe 40 kg for barbell bench press. Keep barbell pressing conservative until MRI results are reviewed.
@@ -83,13 +83,16 @@ Upgrade:
 ### Lat Pulldown
 
 Current:
-50 kg
+50 kg established working load; 55 kg provisional working load
 
 Target:
-4 sets of 10 reps with strict form
+55 kg for 4 sets of 8-10 reps with strict form and RIR 2-3
 
 Upgrade:
-Next upgrade rule to be defined after 50 kg reaches controlled 4 sets of 12 reps
+Do not increase above 55 kg until the MRI-related shoulder review and a symptom-free recovery response
+
+Note:
+Use 4 total working sets per session. Do not repeat the 2026-07-17 combination of 4 pronated-grip sets plus 4 reverse-grip sets as the default.
 
 ---
 
@@ -210,7 +213,8 @@ Gym Days:
 
 - Tuesday 2026-07-14: Upper A, shoulder-friendly.
 - Thursday 2026-07-16: Pull + Shoulder Prehab + Abs, shoulder-friendly.
-- Lower-body loading remains paused unless right knee is pain-free during daily movement and warm-up.
+- Friday 2026-07-17: Full Body + Shoulder Prehab + Abs, knee-aware reintroduction.
+- Leg Press may use 30 kg in a pain-free range; loaded Bulgarian Split Squat remains paused because the movement reproduced right knee pain.
 
 Main Objectives:
 
@@ -305,48 +309,47 @@ Reduce side-lying phone use and long neck-flexed phone use because these are con
 ## Latest Workout Log
 
 Date:
-2026-07-16
+2026-07-17
 
 Workout:
-Pull + Shoulder Prehab + Abs, Shoulder-Friendly / Low-Back-Aware
+Full Body + Shoulder Prehab + Abs, Knee-Aware
 
 Key Results:
 
-- Prehab: pec minor stretch 60 seconds each side; band external rotation left 15 / 15 / 15 and right 15 / 15 / 15, target RIR 4; band internal rotation completed for 3 sets each side; Face Pull 10 kg 15 / 15 / 15, target RIR 4.
-- Lat Pulldown 50 kg: 8 / 8 / 8 / not recorded, target RIR 3-4.
-- Seated Cable Row 25 kg: 8 / 10 / 10, target RIR 3.
-- Assisted Pull-Up -45 kg assistance: 7 / 7 / 7, target RIR 3.
-- Dumbbell Curl 5 kg each hand: not recorded.
-- Hammer Curl 5 kg each hand: not recorded.
-- Tricep Pushdown 15 kg: 12 / 10 / 10, target RIR 2-3.
-- Weighted Crunch 45 kg: 10 / 10 / 10, target RIR 3.
-- Hanging Leg Raise: 10 / 10 / 10.
-- Russian Twist 10 kg: 8 / 8 / 8 each side.
-- Roman Chair Sit-Up: 8 / 8 / 8.
+- Body Weight: 60.9 kg.
+- Prehab: pec minor stretch 60 seconds each side; band external rotation left 15 / 15 and right 15 / 15, target RIR 4; Face Pull 10 kg 15 / 15 / 15 / 15, target RIR 4.
+- Pronated-Grip Lat Pulldown 55 kg: 10 / 10 / 10 / 10, target RIR 2.
+- Reverse-Grip Lat Pulldown 55 kg: 10 / 10 / 10 / 10, target RIR 2.
+- Barbell Bench Press 25 kg: 8 / 8 / 8 / 8, target RIR 1.
+- Leg Press 30 kg: 10 / 10 / 10 / 10, target RIR 2. The first set was explicitly pain-free; the complete post-session knee response was not reported.
+- Tricep Pushdown 15 kg: 12 / 12 / 12 / 12, target RIR 3.
+- Barbell Bulgarian Split Squat 20 kg: left 8 / 8 and right 8 / 8, target RIR 1. The split-squat pattern had already reproduced right medial knee pain, so this is not a pain-free progression pass.
+- Weighted Crunch 45 kg: 10 / 10 / 10, target RIR 2.
+- Seated Cable Row 25 kg: 10 / 10 / 10, target RIR 2.
 
 Progression Decisions:
 
 - Seated Machine Chest Press and Barbell Bench Press must remain separate in planning and logs.
 - Seated Machine Chest Press stays at 35 kg for the next pressing session; use conservative RIR before MRI review.
-- Barbell Bench Press working load remains 20 kg; 25 kg is only a test load and should not be treated as the default.
-- Lat Pulldown stays at 50 kg with target RIR 3-4 before MRI review. Avoid failure and stop if forearm/form fails first.
+- Barbell Bench Press 25 kg produced 4 sets of 8 at RIR 1. Keep 25 kg as the upper test load and do not increase; it becomes the default only after controlled RIR 2-3 work with no symptom increase.
+- Lat Pulldown 55 kg produced 4 sets of 10 for both pronated and reverse grips, but 8 total pulldown sets is excessive as a default. Next session use only one grip for 4 total sets at RIR 2-3 and do not increase load.
 - Seated Cable Row should use 25 kg while lower-back soreness is present; return to 30 kg only when torso control is clean.
-- Assisted Pull-Up stays at -45 kg assistance with strict reps; 7 / 7 / 7 is a good current strict-rep marker.
 - Face Pull should remain in the warm-up/prehab block.
-- Tricep Pushdown stays at 15 kg with stricter RIR control; 20 kg is not yet the default working load.
+- Tricep Pushdown stays at 15 kg with target RIR 2-3; 12 / 12 / 12 / 12 is the new rep marker.
 - Dumbbell Curl and Hammer Curl stay at 5 kg with strict form.
 - Dumbbell Lateral Raise should use 2.5-3 kg during the shoulder-friendly block.
 - Weighted Crunch should stay at 45 kg when lower-back soreness is present; return to 50 kg only when lower back is calm.
-- Hanging Leg Raise remains useful, but hanging grip/shoulders may limit the set before the abs do.
-- Abdominal volume was high on 2026-07-16 despite lower-back caution. Next session should reduce spinal-flexion volume if lower-back soreness persists.
-- Upper-body training volume remains sufficient. Current limiting factors for visible change are inconsistent bodyweight gain, paused leg training due to knee symptoms, and MRI-related conservative loading.
+- Leg Press stays at 30 kg and within a pain-free range until all sets and the next-day response are confirmed pain-free.
+- Loaded Bulgarian Split Squat is paused because the movement pattern reproduced right medial knee pain. Re-test with bodyweight only after symptoms settle.
+- Upper-body training volume was more than sufficient on 2026-07-17. Recovery and bodyweight gain now take priority over adding more back volume.
+- Body weight at 60.9 kg is moving away from the lean-bulk target. Confirm the trend with consistent morning weigh-ins and increase calorie intake by 150-200 kcal if the weekly average remains flat or falls for 2 weeks.
 
 ---
 
 ## Injury / Symptom Watch
 
 Right Knee:
-Pain appeared during Leg Press on 2026-06-20 and recurred on 2026-06-27 at 45 kg. On 2026-06-27, pain occurred at the deepest knee-bend / high-force position during Leg Press and also appeared during Leg Curl in the same right medial knee area. Pause lower-body loading until pain is absent during daily movement and warm-up.
+Pain appeared during Leg Press on 2026-06-20 and recurred on 2026-06-27 at 45 kg. On 2026-06-27, pain occurred at the deepest knee-bend / high-force position during Leg Press and also appeared during Leg Curl in the same right medial knee area. During the 2026-07-17 reintroduction, the split-squat pattern reproduced right knee pain while normal walking remained pain-free. Leg Press 30 kg was then completed for 4 sets of 10 at RIR 2; the first set was explicitly pain-free, but the complete post-session response was not reported. Barbell Bulgarian Split Squat 20 kg was also completed for 2 sets of 8 each side at RIR 1, but this is not a clean progression pass because pain had already occurred. Keep Leg Press at 30 kg only in a pain-free range and pause loaded split squats.
 
 Right Calf:
 Cramped during Hanging Leg Raise on 2026-06-20. Monitor hydration, sodium and calf fatigue.
