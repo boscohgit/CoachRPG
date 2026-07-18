@@ -12,7 +12,7 @@ Body Weight:
 60.9 kg
 
 Overall Notes:
-The session combined substantial upper-body pulling volume with pressing, knee loading, triceps, abs, and shoulder prehab. Pronated- and reverse-grip Lat Pulldown were both performed for 4 sets at 55 kg, totaling 8 pulldown working sets. Barbell Bench Press reached 25 kg for 4 sets of 8 at RIR 1. Leg Press was completed at a reduced 30 kg load. Barbell Bulgarian Split Squat was performed at 20 kg despite the split-squat pattern having reproduced right medial knee pain earlier in the session sequence. No final right shoulder, lower-back, or complete post-session knee symptom rating was reported.
+The session combined substantial upper-body pulling volume with pressing, knee loading, triceps, abs, and shoulder prehab. Front-to-chest Lat Pulldown and Behind-the-Neck Lat Pulldown were both performed for 4 sets at 55 kg, totaling 8 pulldown working sets. The second variation was initially misreported as a reverse-hand variation and was later clarified as facing away from the machine and pulling the bar behind the neck. Barbell Bench Press reached 25 kg for 4 sets of 8 at RIR 1. Leg Press was completed at a reduced 30 kg load. Barbell Bulgarian Split Squat was performed at 20 kg despite the split-squat pattern having reproduced right medial knee pain earlier in the session sequence. No final right shoulder, lower-back, or complete post-session knee symptom rating was reported.
 
 ---
 
@@ -69,7 +69,7 @@ Completed 4 activation sets. Keep the movement controlled and avoid shrugging.
 
 ## Exercises
 
-### Pronated-Grip Lat Pulldown
+### Front-to-Chest Lat Pulldown
 
 Weight:
 55 kg
@@ -81,11 +81,11 @@ Sets:
 10 / 10 / 10 / 10
 
 Notes:
-First recorded session at 55 kg for 4 sets of 10. Do not increase load yet. Confirm strict form and next-day shoulder / forearm response first.
+Performed while facing the machine and pulling the bar to the front of the chest. First recorded session at 55 kg for 4 sets of 10. Do not increase load yet. Confirm strict form and next-day shoulder / forearm response first.
 
 ---
 
-### Reverse-Grip Lat Pulldown
+### Behind-the-Neck Lat Pulldown
 
 Weight:
 55 kg
@@ -97,7 +97,7 @@ Sets:
 10 / 10 / 10 / 10
 
 Notes:
-User described this as the reverse-hand grip. This added another 4 pulldown sets, bringing total Lat Pulldown volume to 8 working sets. Do not repeat both variations for 4 sets each in the next session.
+Performed while facing away from the machine and pulling the bar behind the neck. This was initially misunderstood as a reverse-hand grip variation. It added another 4 pulldown sets, bringing total Lat Pulldown volume to 8 working sets. Do not repeat this behind-the-neck variation because the user has chronic right shoulder / anterior chest / scapula symptoms and shoulder imaging is pending.
 
 ---
 
@@ -200,7 +200,7 @@ Keep torso fixed and avoid leaning back. The reduced load remains appropriate un
 
 ## Progression Decisions
 
-- Lat Pulldown: 55 kg is a provisional working load. Next session use only one grip for 4 total working sets at RIR 2-3; do not perform another 8-set pulldown block.
+- Lat Pulldown: 55 kg is a provisional working load for the front-to-chest version only. Next session perform 4 total working sets at RIR 2-3. Do not repeat the Behind-the-Neck Lat Pulldown or another 8-set pulldown block.
 - Barbell Bench Press: 25 kg remains the current upper test load. Do not increase until 4 sets can be completed at RIR 2-3 without worsening right shoulder / anterior chest / scapula symptoms.
 - Leg Press: keep 30 kg and a pain-free range. Do not increase until the complete session and next-day knee response are pain-free.
 - Bulgarian Split Squat: loaded progression is paused because the movement pattern reproduced right knee pain. A completed set is not a clean pass when pain is present.

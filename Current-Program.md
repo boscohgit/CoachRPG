@@ -62,7 +62,7 @@ Tricep Pushdown
 # Wednesday - Pull
 
 Lat Pulldown
-55 kg provisional working load, 4 total working sets × 8-10, RIR 2-3. Use one grip per session and do not repeat 8 total pulldown sets by combining grip variations.
+Front-to-chest version only: 55 kg provisional working load, 4 total working sets × 8-10, RIR 2-3. Face the machine and pull toward the upper chest. Do not perform Behind-the-Neck Lat Pulldown or repeat an 8-set pulldown block.
 
 Seated Cable Row
 25 kg while monitoring the lower back, 3-4 × 8-12, RIR 2-3

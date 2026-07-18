@@ -92,7 +92,7 @@ Upgrade:
 Do not increase above 55 kg until the MRI-related shoulder review and a symptom-free recovery response
 
 Note:
-Use 4 total working sets per session. Do not repeat the 2026-07-17 combination of 4 pronated-grip sets plus 4 reverse-grip sets as the default.
+Use 4 total working sets per session with the bar pulled to the front of the upper chest. Do not program Behind-the-Neck Lat Pulldown. On 2026-07-17, the second 4-set block was initially misunderstood as a reverse-grip variation but was later clarified as facing away from the machine and pulling the bar behind the neck.
 
 ---
 
@@ -221,7 +221,7 @@ Main Objectives:
 - Continue upper-body training with conservative pressing until MRI results are reviewed.
 - Track Seated Machine Chest Press separately from Barbell Bench Press.
 - Use Seated Machine Chest Press 35-40 kg only if symptoms stay calm; Barbell Bench Press working load remains 20 kg.
-- Continue Lat Pulldown 50 kg and build toward 4 sets of 10 with strict form.
+- Continue front-to-chest Lat Pulldown at the provisional 55 kg load for 4 total working sets with strict form; do not use the behind-the-neck variation.
 - Keep upper-body training active while knee loading is paused.
 - Keep abdominal training 2-3 times this week for visible eight-pack development.
 
@@ -318,8 +318,8 @@ Key Results:
 
 - Body Weight: 60.9 kg.
 - Prehab: pec minor stretch 60 seconds each side; band external rotation left 15 / 15 and right 15 / 15, target RIR 4; Face Pull 10 kg 15 / 15 / 15 / 15, target RIR 4.
-- Pronated-Grip Lat Pulldown 55 kg: 10 / 10 / 10 / 10, target RIR 2.
-- Reverse-Grip Lat Pulldown 55 kg: 10 / 10 / 10 / 10, target RIR 2.
+- Front-to-Chest Lat Pulldown 55 kg: 10 / 10 / 10 / 10, target RIR 2. Performed while facing the machine and pulling to the chest.
+- Behind-the-Neck Lat Pulldown 55 kg: 10 / 10 / 10 / 10, target RIR 2. Performed while facing away from the machine and pulling behind the neck; initially misunderstood as a reverse-grip variation.
 - Barbell Bench Press 25 kg: 8 / 8 / 8 / 8, target RIR 1.
 - Leg Press 30 kg: 10 / 10 / 10 / 10, target RIR 2. The first set was explicitly pain-free; the complete post-session knee response was not reported.
 - Tricep Pushdown 15 kg: 12 / 12 / 12 / 12, target RIR 3.
@@ -332,7 +332,7 @@ Progression Decisions:
 - Seated Machine Chest Press and Barbell Bench Press must remain separate in planning and logs.
 - Seated Machine Chest Press stays at 35 kg for the next pressing session; use conservative RIR before MRI review.
 - Barbell Bench Press 25 kg produced 4 sets of 8 at RIR 1. Keep 25 kg as the upper test load and do not increase; it becomes the default only after controlled RIR 2-3 work with no symptom increase.
-- Lat Pulldown 55 kg produced 4 sets of 10 for both pronated and reverse grips, but 8 total pulldown sets is excessive as a default. Next session use only one grip for 4 total sets at RIR 2-3 and do not increase load.
+- Front-to-Chest Lat Pulldown 55 kg produced 4 sets of 10. Another 4 sets were Behind-the-Neck Lat Pulldown, not reverse-grip pulldown. Do not program the behind-the-neck variation again. Next session use only the front-to-chest version for 4 total sets at RIR 2-3 and do not increase load.
 - Seated Cable Row should use 25 kg while lower-back soreness is present; return to 30 kg only when torso control is clean.
 - Face Pull should remain in the warm-up/prehab block.
 - Tricep Pushdown stays at 15 kg with target RIR 2-3; 12 / 12 / 12 / 12 is the new rep marker.
@@ -358,7 +358,7 @@ Lower Back:
 Lower-back soreness was reported before the 2026-07-16 pull session, described as feeling like high-volume back extension work despite not performing it. Likely contributors to monitor are torso lean during Seated Cable Row, excessive arching during Lat Pulldown / Assisted Pull-Up, and spinal extension during hanging abdominal work. Use reduced row load and lower abdominal volume if soreness persists.
 
 Right Shoulder / Right Anterior Chest / Right Scapula:
-Chronic pain for 5-6 years. Triggered by side-lying phone use and prolonged neck flexion. Arm elevation can click. Training often improves symptoms. MRI scheduled for 2026-08-02. Keep upper-body training conservative and symptom-guided until imaging is reviewed.
+Chronic pain for 5-6 years. Triggered by side-lying phone use and prolonged neck flexion. Arm elevation can click. Training often improves symptoms. MRI scheduled for 2026-08-02. On 2026-07-17, Behind-the-Neck Lat Pulldown was performed at 55 kg for 4 sets of 10 before the movement was clarified; no post-session shoulder symptom rating was reported. Keep upper-body training conservative and symptom-guided, and do not repeat behind-the-neck pulling until imaging is reviewed.
 
 ---
 
