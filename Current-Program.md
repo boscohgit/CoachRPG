@@ -74,7 +74,7 @@ Assisted Pull-Up
 3-4 × 6-8 strict reps
 
 Dumbbell Curl
-3 × 5-8 if testing 5 kg, otherwise 3 × 10-12
+5 kg, 3 × 6-8, RIR 3. Use seated or back-supported strict form with no body sway. Stop if right anterior shoulder / chest discomfort returns.
 
 Hammer Curl
 3 × 5-8 if testing 5 kg, otherwise 3 × 10-12
