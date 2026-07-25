@@ -213,6 +213,9 @@ Gym Days:
 
 - Thursday 2026-07-23: Full Body + Shoulder Prehab + Abs, shoulder- and knee-aware.
 - Leg Press 30 kg completed 3 sets of 10 without right knee pain.
+- Saturday 2026-07-25: Upper Body + Abs, shoulder-aware. Seated Machine Chest Press, Front-to-Chest Lat Pulldown, Seated Cable Row, Dumbbell Lateral Raise, Tricep Pushdown, Weighted Crunch, Barbell Bench Press, Hanging Leg Raise, and Unassisted Pull-Up were reported.
+- Dumbbell Lateral Raise was performed at 5 kg each hand for 3 sets of 10 with target RIR 1; return to the shoulder-friendly 2.5-3 kg range and target RIR 3 before MRI review.
+- Weighted Crunch and Hanging Leg Raise were stacked in the same session; do not repeat this abdominal volume until lower-back and calf recovery are confirmed.
 - Loaded Bulgarian Split Squat remains paused because the movement previously reproduced right knee pain.
 
 Main Objectives:
@@ -308,39 +311,42 @@ Reduce side-lying phone use and long neck-flexed phone use because these are con
 ## Latest Workout Log
 
 Date:
-2026-07-23
+2026-07-25
 
 Workout:
-Full Body + Shoulder Prehab + Abs, Shoulder- and Knee-Aware
+Upper Body + Abs, Shoulder-Aware
 
 Key Results:
 
-- Prehab: pec minor stretch 60 seconds each side; band external rotation left 15 / 15 and right 15 / 15, target RIR 4; Face Pull 10 kg 15 / 15 / 15, target RIR 4.
-- Seated Machine Chest Press 35 kg: 8 / 8 / 10 / 10, target RIR 3.
-- Front-to-Chest Lat Pulldown 55 kg: 9 / 9 / 9 / 10, target RIR 3.
+- Prehab: pec minor stretch 60 seconds each side; band external rotation left 15 / 15 and right 15 / 15, target RIR 4; Face Pull 10 kg 15 / 15, target RIR 4.
+- Seated Machine Chest Press 35 kg: 10 / 10 / 10, target RIR 3.
+- Front-to-Chest Lat Pulldown 55 kg: 10 / 10 / 9, target RIR 3.
 - Seated Cable Row 25 kg: 10 / 10 / 10, target RIR 3.
-- Leg Press 30 kg: 10 / 10 / 10, target RIR 3, with no right knee pain.
-- Tricep Pushdown 15 kg: 12 / 12 / 12, target RIR 3.
-- Dumbbell Curl 5 kg each hand: 8 / 8 / 8, target RIR 3. Mild non-stabbing discomfort appeared just lateral to the right anterior shoulder / chest groove during the final 2 momentum-assisted reps of set 1.
+- Dumbbell Lateral Raise 5 kg each hand: 10 / 10 / 10, target RIR 1.
+- Tricep Pushdown 15 kg: 12 / 12, target RIR 3.
 - Weighted Crunch 45 kg: 10 / 10 / 10, target RIR 2.
-- Post-workout: right posterior shoulder felt warm and full; left posterior shoulder had no comparable sensation. Pain score, weakness, numbness, visible swelling, range-of-motion loss, and duration were not reported.
+- Barbell Bench Press 25 kg: 8 / 8 / 6, target RIR 3.
+- Hanging Leg Raise: reported volume 3 × 10, target RIR 1; weight / assistance not recorded.
+- Unassisted Pull-Up: 2 reported reps; sets, target RIR, form, and symptom response not recorded.
+- Post-workout shoulder, anterior-chest, scapula, lower-back, calf, and knee symptom responses were not recorded.
 
 Progression Decisions:
 
 - Seated Machine Chest Press and Barbell Bench Press must remain separate in planning and logs.
-- Seated Machine Chest Press stays at 35 kg. Next target is 10 / 10 / 10 / 10 at RIR 2-3 before considering 40 kg.
-- Barbell Bench Press 25 kg remains the upper test load and should not be combined with the next chest-press progression session.
-- Front-to-Chest Lat Pulldown stays at 55 kg for 4 total sets. Next target is 10 / 10 / 9 / 9 at RIR 3. Do not program the behind-the-neck variation.
+- Seated Machine Chest Press stays at 35 kg. Three sets of 10 do not satisfy the four-set upgrade rule; next target remains 10 / 10 / 10 / 10 at RIR 2-3 before considering 40 kg.
+- Barbell Bench Press 25 kg remains the upper test load. It was combined with Seated Machine Chest Press on 2026-07-25; do not combine it with the next chest-press progression attempt.
+- Front-to-Chest Lat Pulldown stays at 55 kg for 4 total sets. The 2026-07-25 session recorded only 3 sets; do not program the behind-the-neck variation.
 - Seated Cable Row should use 25 kg while lower-back soreness is present; return to 30 kg only when torso control is clean.
 - Face Pull should remain in the warm-up/prehab block.
-- Tricep Pushdown stays at 15 kg; 12 / 12 / 12 at RIR 3 is confirmed.
+- Tricep Pushdown stays at 15 kg; 12 / 12 at target RIR 3 was recorded.
 - Dumbbell Curl stays at 5 kg with seated or back-supported strict form. Do not count momentum-assisted reps, and stop if right anterior shoulder / chest discomfort returns.
 - Hammer Curl stays at 5 kg with strict form.
-- Dumbbell Lateral Raise should use 2.5-3 kg during the shoulder-friendly block.
-- Weighted Crunch stays at 45 kg for 3 sets of 10 while monitoring the lower back.
+- Dumbbell Lateral Raise should return to 2.5-3 kg and target RIR 3 during the shoulder-friendly block. Do not repeat 5 kg at target RIR 1 before MRI review.
+- Do not stack Weighted Crunch 45 kg and Hanging Leg Raise in the next session. Choose one primary abdominal movement and confirm lower-back and calf recovery.
+- Unassisted Pull-Up 2 reps is recorded as a performance marker only; sets, form, actual RIR, and symptom response are needed before changing assisted-pull-up progression.
 - Leg Press stays at 30 kg for 3 sets of 10 in the pain-free range. This is the first explicitly complete pain-free session at this rehabilitation prescription; confirm the next-day response before adding volume or load.
 - Loaded Bulgarian Split Squat is paused because the movement pattern reproduced right medial knee pain. Re-test with bodyweight only after symptoms settle.
-- No additional upper-body loading is needed until the right posterior shoulder warm/full sensation settles. Track the same-day and next-morning response.
+- No additional upper-body loading is needed until the response to the 2026-07-25 pressing, pulling, and lateral-raise volume is reported. Track the same-day and next-morning shoulder, anterior-chest, and scapula response.
 - Body weight at 60.9 kg is moving away from the lean-bulk target. Confirm the trend with consistent morning weigh-ins and increase calorie intake by 150-200 kcal if the weekly average remains flat or falls for 2 weeks.
 
 ---
@@ -351,13 +357,13 @@ Right Knee:
 Pain appeared during Leg Press on 2026-06-20 and recurred on 2026-06-27 at 45 kg. On 2026-06-27, pain occurred at the deepest knee-bend / high-force position during Leg Press and also appeared during Leg Curl in the same right medial knee area. During the 2026-07-17 reintroduction, the split-squat pattern reproduced right knee pain while normal walking remained pain-free. On 2026-07-23, Leg Press 30 kg was completed for 3 sets of 10 at RIR 3 with no right knee pain. Keep Leg Press at 30 kg and the same pain-free range until the next-day response is also confirmed. Loaded split squats remain paused.
 
 Right Calf:
-Cramped during Hanging Leg Raise on 2026-06-20. Monitor hydration, sodium and calf fatigue.
+Cramped during Hanging Leg Raise on 2026-06-20. Hanging Leg Raise was reported as 3 × 10 at target RIR 1 on 2026-07-25; no calf response was recorded. Monitor hydration, sodium and calf fatigue.
 
 Lower Back:
-Lower-back soreness was reported before the 2026-07-16 pull session, described as feeling like high-volume back extension work despite not performing it. Likely contributors to monitor are torso lean during Seated Cable Row, excessive arching during Lat Pulldown / Assisted Pull-Up, and spinal extension during hanging abdominal work. Use reduced row load and lower abdominal volume if soreness persists.
+Lower-back soreness was reported before the 2026-07-16 pull session, described as feeling like high-volume back extension work despite not performing it. Likely contributors to monitor are torso lean during Seated Cable Row, excessive arching during Lat Pulldown / Assisted Pull-Up, and spinal extension during hanging abdominal work. On 2026-07-25, Weighted Crunch 45 kg for 3 sets of 10 and Hanging Leg Raise 3 × 10 were stacked; no post-session lower-back response was recorded. Use reduced row load and do not stack both abdominal movements in the next session.
 
 Right Shoulder / Right Anterior Chest / Right Scapula:
-Chronic pain for 5-6 years. Triggered by side-lying phone use and prolonged neck flexion. Arm elevation can click. Training often improves symptoms. MRI scheduled for 2026-08-02. On 2026-07-17, Behind-the-Neck Lat Pulldown was performed at 55 kg for 4 sets of 10 before the movement was clarified; do not repeat it. On 2026-07-23, mild non-stabbing discomfort appeared just lateral to the right anterior shoulder / chest groove during the final 2 momentum-assisted reps of the first Dumbbell Curl set. After training, the right posterior shoulder felt warm and full while the left did not. No pain score, weakness, numbness, visible swelling, range-of-motion loss, or duration was reported. Use strict supported curls, avoid momentum, and track the same-day and next-morning response.
+Chronic pain for 5-6 years. Triggered by side-lying phone use and prolonged neck flexion. Arm elevation can click. Training often improves symptoms. MRI scheduled for 2026-08-02. On 2026-07-17, Behind-the-Neck Lat Pulldown was performed at 55 kg for 4 sets of 10 before the movement was clarified; do not repeat it. On 2026-07-23, mild non-stabbing discomfort appeared just lateral to the right anterior shoulder / chest groove during the final 2 momentum-assisted reps of the first Dumbbell Curl set. After training, the right posterior shoulder felt warm and full while the left did not. On 2026-07-25, Seated Machine Chest Press and Barbell Bench Press were combined, and Dumbbell Lateral Raise was performed at 5 kg each hand for 3 sets of 10 with target RIR 1; no post-session symptom response was reported. Return lateral raises to 2.5-3 kg at target RIR 3, keep curls strict and supported, and track the same-day and next-morning response.
 
 ---
 
