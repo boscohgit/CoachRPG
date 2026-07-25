@@ -7,7 +7,7 @@ Week:
 Week 8
 
 Current Body Weight:
-60.9 kg
+61.0 kg
 
 Target Body Weight:
 66 kg
@@ -121,10 +121,10 @@ Priority 3:
 Develop chest and upper chest
 
 Priority 4:
-Increase arm circumference from 26.5 cm to 30 cm after measurement position is confirmed
+Confirm the arm measurement protocol. The 2026-07-25 value was 32.2 cm versus 26.5 cm on 2026-06-21, but flexed versus relaxed status, tape position, and timing relative to training were not recorded.
 
 Priority 5:
-Increase thigh circumference toward 54 cm after measurement position is confirmed
+Increase thigh circumference toward 54 cm after measurement position is confirmed. The 2026-07-25 value was 46.6 cm versus 50 cm on 2026-06-21 and should be re-measured consistently before changing leg priorities.
 
 ---
 
@@ -172,28 +172,37 @@ Build visible eight-pack abs by increasing abdominal thickness while gaining ove
 ## Weekly Check-In
 
 Date:
-2026-06-21
+2026-07-25
 
 Body Weight:
-61.8 kg
+61.0 kg
 
 Measurements:
 
-- Neck: 34 cm.
-- Waist: 78.5 cm.
-- Chest: 86 cm.
-- Thigh: 50 cm.
-- Arm: 26.5 cm.
+- Neck: 33 cm.
+- Waist: 78.8 cm.
+- Chest: 86.6 cm.
+- Thigh: 46.6 cm.
+- Arm: 32.2 cm.
+
+Estimated Body Composition:
+
+- Body Fat: 15.5% by the male Navy / DoD circumference equation.
+- Fat Mass: approximately 9.5 kg.
+- Fat-Free Mass: approximately 51.5 kg.
+- Calculation uses height 178 cm, reported waist 78.8 cm and neck 33 cm.
+- The equation expects an abdomen-at-navel measurement. Exact tape position was not recorded, so the result is provisional.
 
 Primary Physique Goal:
 Visible eight-pack abs.
 
 Coach Assessment:
 
-- Body weight is 61.8 kg, still below the starting reference and below the lean bulk trend target.
-- Waist decreased from 81 cm to 78.5 cm, which supports leanness but also suggests bodyweight gain is not yet sufficient.
-- Chest increased from 82 cm to 86 cm and thigh increased from 49 cm to 50 cm compared with the previous check-in.
-- Arm decreased from 28 cm to 26.5 cm and should be re-measured with consistent tape placement before changing priorities.
+- Body weight decreased from 61.8 kg on 2026-06-21 to 61.0 kg and remains below the starting reference and lean-bulk trend target.
+- Waist increased slightly from 78.5 cm to 78.8 cm.
+- Chest increased from 86 cm to 86.6 cm.
+- Arm increased from 26.5 cm to 32.2 cm and thigh decreased from 50 cm to 46.6 cm. These changes are too large to use as tissue-gain or tissue-loss evidence without consistent tape position, flexed versus relaxed status, and timing relative to training.
+- Estimated body fat is 15.5%, but the abdomen-at-navel measurement position was not confirmed. Do not change strategy from this provisional estimate.
 - Current strategy remains lean bulk. Do NOT cut.
 
 Nutrition Decision:

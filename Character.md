@@ -8,10 +8,10 @@ Age: 38
 
 Height: 178 cm
 
-Current Weight: 62.6 kg
-Latest Check-In Weight: 62.5 kg
+Current Weight: 61.0 kg
+Latest Check-In Weight: 61.0 kg
 
-Estimated Body Fat: 12-15%
+Estimated Body Fat: 15.5% by male Navy / DoD circumference equation, provisional because abdomen-at-navel tape position was not confirmed
 
 Primary Goal:
 Lean Bulk / Hypertrophy
@@ -27,25 +27,25 @@ Long Term Goal:
 ## Body Measurements
 
 Neck: 34 cm
-Latest Neck: 34 cm
+Latest Neck: 33 cm
 
 Chest: 87.1 cm
-Latest Chest: 86 cm
+Latest Chest: 86.6 cm
 
 Waist: 80.4 cm
-Latest Waist: 78.5 cm
+Latest Waist: 78.8 cm
 
 Hip: 79.8 cm
 Latest Hip: 62.5 cm
 
 Arm: 27.8 cm
-Latest Arm: 26.5 cm
+Latest Arm: 32.2 cm
 
 Thigh: 50.2 cm
-Latest Thigh: 50 cm
+Latest Thigh: 46.6 cm
 
 Measurement Note:
-Chest, arm, hip and thigh measurements have changed significantly across check-ins. Re-measure with the same tape position before using these values for long-term trend decisions.
+Chest, arm, hip and thigh measurements have changed significantly across check-ins. The 2026-07-25 arm and thigh values changed sharply from the previous check-in, and measurement position, flexed versus relaxed status, and timing relative to training were not recorded. Preserve the reported values but re-measure with the same tape position before using them for long-term trend decisions.
 
 ---
 
@@ -230,3 +230,38 @@ Visible eight-pack abs.
 
 Coach Interpretation:
 Body weight remains below the lean bulk target trend despite normal eating. Waist is lower, while chest and thigh measurements improved from the previous check-in. Arm measurement dropped sharply and should be re-measured with consistent tape placement before changing training priorities. Continue lean bulk and keep calories at 2800-3100 kcal per day.
+
+## Weekly Check-In (2026-07-25)
+
+Body Weight:
+61.0 kg
+
+Neck:
+33 cm
+
+Waist:
+78.8 cm
+
+Chest:
+86.6 cm
+
+Thigh:
+46.6 cm
+
+Arm:
+32.2 cm
+
+Estimated Body Fat:
+15.5% by male Navy / DoD circumference equation
+
+Estimated Fat Mass:
+9.5 kg
+
+Estimated Fat-Free Mass:
+51.5 kg
+
+Measurement Note:
+The body-fat equation expects an abdomen-at-navel measurement. The user reported waist circumference, but the exact position was not recorded, so 15.5% is provisional. Arm measurement increased by 5.7 cm and thigh measurement decreased by 3.4 cm from the previous check-in; preserve both numbers but do not use the changes for progression decisions until the measurement protocol is standardized.
+
+Coach Interpretation:
+Body weight remains below the lean-bulk target. Continue lean bulk and do not cut. Keep calories at 2800-3100 kcal per day and protein at 130 g minimum while confirming a consistent morning bodyweight average.
