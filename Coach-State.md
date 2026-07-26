@@ -266,7 +266,7 @@ Daily, and before upper-body training as warm-up.
 
 Warm-Up:
 
-- Foam roller thoracic extension: 2 minutes.
+- Foam roller thoracic extension: 2 minutes, using controlled thoracic extension only. Do not aggressively roll the posterior axilla / upper-lat area.
 - Pec minor stretch: 60 seconds each side.
 - Cat-cow: 15 reps.
 
@@ -287,6 +287,9 @@ Improve thoracic extension, reduce anterior shoulder tightness, strengthen serra
 
 Pain Rule:
 These drills should feel like activation or stretching, not sharp pain. Stop or reduce range if symptoms increase.
+
+Foam Rolling Rule:
+Post-workout foam rolling is optional, not mandatory. The 2026-07-25 session was followed by evening foam rolling and bilateral posterior-axillary soreness the next morning. Do not directly or aggressively roll that area, and stop using the roller on any location that creates new soreness or increases symptoms.
 
 ---
 

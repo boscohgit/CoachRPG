@@ -14,7 +14,7 @@ Right shoulder / right anterior chest / right scapula symptoms are under medical
 
 Warm-Up:
 
-- Foam roller thoracic extension: 2 minutes
+- Foam roller thoracic extension: 2 minutes, using controlled thoracic extension only. Do not aggressively roll the posterior axilla / upper-lat area.
 - Pec minor stretch: 60 seconds each side
 - Cat-cow: 15 reps
 
@@ -31,6 +31,8 @@ Cool-Down:
 - Upper trapezius stretch: 30-45 seconds each side
 
 Use this daily and before upper-body training.
+
+Post-workout foam rolling is optional, not mandatory. Do not use it as a required recovery step. Stop rolling an area if it creates new soreness or increases symptoms.
 
 ---
 
