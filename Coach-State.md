@@ -338,7 +338,7 @@ Key Results:
 - Hanging Leg Raise: reported volume 3 × 10, target RIR 1; weight / assistance not recorded.
 - Unassisted Pull-Up: 2 reported reps; sets, target RIR, form, and symptom response not recorded.
 - Post-workout: no notable posterior-shoulder sensation; anterior chest felt slightly tight; lower back and calf felt good. Knee response was not recorded.
-- Next morning 2026-07-26: both posterior-axillary muscle areas were sore after evening foam rolling. Severity, pain quality, swelling, bruising, weakness, numbness, and range-of-motion response were not recorded.
+- Next morning 2026-07-26: both posterior-axillary muscle areas were sore after evening foam rolling. Pain was approximately 2 / 10 at rest and increased to approximately 3 / 10 when raising the arms. Swelling, bruising, weakness, numbness, and range-of-motion limitation were not reported.
 
 Progression Decisions:
 
@@ -376,7 +376,7 @@ Right Shoulder / Right Anterior Chest / Right Scapula:
 Chronic pain for 5-6 years. Triggered by side-lying phone use and prolonged neck flexion. Arm elevation can click. Training often improves symptoms. MRI scheduled for 2026-08-02. On 2026-07-17, Behind-the-Neck Lat Pulldown was performed at 55 kg for 4 sets of 10 before the movement was clarified; do not repeat it. On 2026-07-23, mild non-stabbing discomfort appeared just lateral to the right anterior shoulder / chest groove during the final 2 momentum-assisted reps of the first Dumbbell Curl set. After training, the right posterior shoulder felt warm and full while the left did not. On 2026-07-25, Seated Machine Chest Press and Barbell Bench Press were combined, and Dumbbell Lateral Raise was performed at 5 kg each hand for 3 sets of 10 with target RIR 1. After training, no notable posterior-shoulder sensation was reported, but the anterior chest felt slightly tight. Return lateral raises to 2.5-3 kg at target RIR 3, keep curls strict and supported, and do not add more upper-body loading until the anterior-chest tightness returns to baseline.
 
 Bilateral Posterior Axilla / Upper Lat Area:
-On waking 2026-07-26, both posterior-axillary muscle areas were sore after the 2026-07-25 upper-body session and evening foam rolling. The session included Front-to-Chest Lat Pulldown, Seated Cable Row, and Unassisted Pull-Up. Severity, pain quality, swelling, bruising, weakness, numbness, and range-of-motion response were not recorded. Treat as a recovery limitation until symptoms return to baseline; avoid heavy pulling and aggressive direct foam rolling in the meantime.
+On waking 2026-07-26, both posterior-axillary muscle areas were sore after the 2026-07-25 upper-body session and evening foam rolling. The session included Front-to-Chest Lat Pulldown, Seated Cable Row, and Unassisted Pull-Up. Pain was approximately 2 / 10 at rest and increased to approximately 3 / 10 when raising the arms. Swelling, bruising, weakness, numbness, and range-of-motion limitation were not reported. Treat as a recovery limitation until symptoms return to baseline; avoid heavy pulling and aggressive direct foam rolling in the meantime.
 
 ---
 
