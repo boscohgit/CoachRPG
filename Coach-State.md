@@ -338,6 +338,7 @@ Key Results:
 - Hanging Leg Raise: reported volume 3 × 10, target RIR 1; weight / assistance not recorded.
 - Unassisted Pull-Up: 2 reported reps; sets, target RIR, form, and symptom response not recorded.
 - Post-workout: no notable posterior-shoulder sensation; anterior chest felt slightly tight; lower back and calf felt good. Knee response was not recorded.
+- Next morning 2026-07-26: both posterior-axillary muscle areas were sore after evening foam rolling. Severity, pain quality, swelling, bruising, weakness, numbness, and range-of-motion response were not recorded.
 
 Progression Decisions:
 
@@ -355,8 +356,8 @@ Progression Decisions:
 - Unassisted Pull-Up 2 reps is recorded as a performance marker only; sets, form, actual RIR, and symptom response are needed before changing assisted-pull-up progression.
 - Leg Press stays at 30 kg for 3 sets of 10 in the pain-free range. This is the first explicitly complete pain-free session at this rehabilitation prescription; confirm the next-day response before adding volume or load.
 - Loaded Bulgarian Split Squat is paused because the movement pattern reproduced right medial knee pain. Re-test with bodyweight only after symptoms settle.
-- The same-day posterior-shoulder response was calm after the 2026-07-25 session, but mild anterior-chest tightness was present. Do not treat the pressing work as a fully symptom-free progression pass. No additional upper-body loading is needed until the tightness returns to baseline; track the next-morning shoulder, anterior-chest, and scapula response.
-- Body weight at 60.9 kg is moving away from the lean-bulk target. Confirm the trend with consistent morning weigh-ins and increase calorie intake by 150-200 kcal if the weekly average remains flat or falls for 2 weeks.
+- The same-day posterior-shoulder response was calm after the 2026-07-25 session, but mild anterior-chest tightness was present. Bilateral posterior-axillary muscle soreness appeared the next morning after evening foam rolling. Do not treat the upper-body work as a fully symptom-free progression pass. Avoid heavy upper-body loading and aggressive direct foam rolling until the soreness and tightness return to baseline.
+- Body weight at 61.0 kg is moving away from the lean-bulk target. Confirm the trend with consistent morning weigh-ins and increase calorie intake by 150-200 kcal if the weekly average remains flat or falls for 2 weeks.
 
 ---
 
@@ -373,6 +374,9 @@ Lower-back soreness was reported before the 2026-07-16 pull session, described a
 
 Right Shoulder / Right Anterior Chest / Right Scapula:
 Chronic pain for 5-6 years. Triggered by side-lying phone use and prolonged neck flexion. Arm elevation can click. Training often improves symptoms. MRI scheduled for 2026-08-02. On 2026-07-17, Behind-the-Neck Lat Pulldown was performed at 55 kg for 4 sets of 10 before the movement was clarified; do not repeat it. On 2026-07-23, mild non-stabbing discomfort appeared just lateral to the right anterior shoulder / chest groove during the final 2 momentum-assisted reps of the first Dumbbell Curl set. After training, the right posterior shoulder felt warm and full while the left did not. On 2026-07-25, Seated Machine Chest Press and Barbell Bench Press were combined, and Dumbbell Lateral Raise was performed at 5 kg each hand for 3 sets of 10 with target RIR 1. After training, no notable posterior-shoulder sensation was reported, but the anterior chest felt slightly tight. Return lateral raises to 2.5-3 kg at target RIR 3, keep curls strict and supported, and do not add more upper-body loading until the anterior-chest tightness returns to baseline.
+
+Bilateral Posterior Axilla / Upper Lat Area:
+On waking 2026-07-26, both posterior-axillary muscle areas were sore after the 2026-07-25 upper-body session and evening foam rolling. The session included Front-to-Chest Lat Pulldown, Seated Cable Row, and Unassisted Pull-Up. Severity, pain quality, swelling, bruising, weakness, numbness, and range-of-motion response were not recorded. Treat as a recovery limitation until symptoms return to baseline; avoid heavy pulling and aggressive direct foam rolling in the meantime.
 
 ---
 
