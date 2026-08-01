@@ -216,25 +216,23 @@ Nutrition Decision:
 ## Current Week Gym Plan
 
 Week:
-2026-07-20 to 2026-07-26
+2026-07-27 to 2026-08-02
 
 Gym Days:
 
-- Thursday 2026-07-23: Full Body + Shoulder Prehab + Abs, shoulder- and knee-aware.
-- Leg Press 30 kg completed 3 sets of 10 without right knee pain.
-- Saturday 2026-07-25: Upper Body + Abs, shoulder-aware. Seated Machine Chest Press, Front-to-Chest Lat Pulldown, Seated Cable Row, Dumbbell Lateral Raise, Tricep Pushdown, Weighted Crunch, Barbell Bench Press, Hanging Leg Raise, and Unassisted Pull-Up were reported.
-- Dumbbell Lateral Raise was performed at 5 kg each hand for 3 sets of 10 with target RIR 1; return to the shoulder-friendly 2.5-3 kg range and target RIR 3 before MRI review.
-- Weighted Crunch and Hanging Leg Raise were stacked in the same session; do not repeat this abdominal volume until lower-back and calf recovery are confirmed.
-- Loaded Bulgarian Split Squat remains paused because the movement previously reproduced right knee pain.
+- Tuesday 2026-07-28: Blood donation reported; donation type and volume were not recorded. Training was skipped.
+- Thursday 2026-07-30: Training was skipped for post-donation recovery.
+- Saturday 2026-08-01: Planned reduced-volume Full Body return session. Do not add catch-up volume for the missed Tuesday and Thursday sessions.
+- Sunday 2026-08-02: Right shoulder / right anterior chest / right scapula MRI scheduled. No additional training is planned before imaging.
 
 Main Objectives:
 
-- Continue upper-body training with conservative pressing until MRI results are reviewed.
-- Track Seated Machine Chest Press separately from Barbell Bench Press.
-- Use Seated Machine Chest Press 35-40 kg only if symptoms stay calm; Barbell Bench Press working load remains 20 kg.
-- Continue front-to-chest Lat Pulldown at the provisional 55 kg load for 4 total working sets with strict form; do not use the behind-the-neck variation.
-- Keep upper-body training active while knee loading is paused.
-- Keep abdominal training 2-3 times this week for visible eight-pack development.
+- Resume training without trying to replace missed weekly volume in one session.
+- Use a 10-15% upper-body load reduction where practical and target RIR 4 because this is the first session after the donation and a 7-day training gap.
+- Keep Leg Press at 30 kg for 3 sets of 10 in the pain-free range; leg training remains mandatory but no load increase is allowed.
+- Use only front-to-chest Lat Pulldown; do not use the behind-the-neck variation.
+- Do not perform Barbell Bench Press, Shoulder Press, Unassisted Pull-Up, or failure work before the 2026-08-02 MRI.
+- Stop training for dizziness, lightheadedness, unusual shortness of breath, palpitations, nausea, or marked weakness.
 
 ---
 

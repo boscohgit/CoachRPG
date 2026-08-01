@@ -8,6 +8,9 @@ Period:
 Temporary Adjustment:
 Right shoulder / right anterior chest / right scapula symptoms are under medical review. MRI scheduled for 2026-08-02. Until MRI results are reviewed, use shoulder-friendly upper-body training with RIR 2-4, no repeated failure sets, and no aggressive load jumps.
 
+Blood Donation Adjustment:
+Blood donation was reported on 2026-07-28; donation type and volume were not recorded. Tuesday and Thursday training were skipped. For the first return session on 2026-08-01, use a 10-15% upper-body load reduction where practical, target RIR 4 on resistance work, reduce total volume, and do not add catch-up sets for the missed sessions. Stop the session for dizziness, lightheadedness, unusual shortness of breath, palpitations, nausea, or marked weakness.
+
 ---
 
 ## Daily Shoulder Prehab
