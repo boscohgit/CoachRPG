@@ -222,7 +222,7 @@ Gym Days:
 
 - Tuesday 2026-07-28: Blood donation reported; donation type and volume were not recorded. Training was skipped.
 - Thursday 2026-07-30: Training was skipped for post-donation recovery.
-- Saturday 2026-08-01: Planned reduced-volume Full Body return session. Do not add catch-up volume for the missed Tuesday and Thursday sessions.
+- Saturday 2026-08-01: Reduced-volume Full Body return session completed. The planned 8-minute cardio warm-up was skipped; all other movements were completed at the planned weights and repetitions with actual RIR 4 and the session felt easy.
 - Sunday 2026-08-02: Right shoulder / right anterior chest / right scapula MRI scheduled. No additional training is planned before imaging.
 
 Main Objectives:
@@ -321,44 +321,36 @@ Reduce side-lying phone use and long neck-flexed phone use because these are con
 ## Latest Workout Log
 
 Date:
-2026-07-25
+2026-08-01
 
 Workout:
-Upper Body + Abs, Shoulder-Aware
+Reduced-Volume Full Body, Post-Donation Return and Pre-MRI
 
 Key Results:
 
-- Prehab: pec minor stretch 60 seconds each side; band external rotation left 15 / 15 and right 15 / 15, target RIR 4; Face Pull 10 kg 15 / 15, target RIR 4.
-- Seated Machine Chest Press 35 kg: 10 / 10 / 10, target RIR 3.
-- Front-to-Chest Lat Pulldown 55 kg: 10 / 10 / 9, target RIR 3.
-- Seated Cable Row 25 kg: 10 / 10 / 10, target RIR 3.
-- Dumbbell Lateral Raise 5 kg each hand: 10 / 10 / 10, target RIR 1.
-- Tricep Pushdown 15 kg: 12 / 12, target RIR 3.
-- Weighted Crunch 45 kg: 10 / 10 / 10, target RIR 2.
-- Barbell Bench Press 25 kg: 8 / 8 / 6, target RIR 3.
-- Hanging Leg Raise: reported volume 3 × 10, target RIR 1; weight / assistance not recorded.
-- Unassisted Pull-Up: 2 reported reps; sets, target RIR, form, and symptom response not recorded.
-- Post-workout: no notable posterior-shoulder sensation; anterior chest felt slightly tight; lower back and calf felt good. Knee response was not recorded.
-- Next morning 2026-07-26: both posterior-axillary muscle areas were sore after evening foam rolling. Pain was approximately 2 / 10 at rest and increased to approximately 3 / 10 when raising the arms. Swelling, bruising, weakness, numbness, and range-of-motion limitation were not reported.
+- Low-intensity treadmill walk or bike: planned 8 minutes, skipped.
+- Pec Minor Stretch: 60 seconds each side, completed.
+- Band External Rotation: left 15 / 15 and right 15 / 15, actual RIR 4.
+- Face Pull 10 kg: 15 / 15, actual RIR 4.
+- Leg Press 30 kg: 10 / 10 / 10, actual RIR 4.
+- Seated Machine Chest Press 30 kg: 8 / 8 / 8, actual RIR 4.
+- Front-to-Chest Lat Pulldown 50 kg: 8 / 8 / 8, actual RIR 4.
+- Seated Cable Row 20 kg: 10 / 10, actual RIR 4.
+- Tricep Pushdown 10 kg: 12 / 12, actual RIR 4.
+- Weighted Crunch 40 kg: 10 / 10, planned RIR 3 and actual RIR 4.
+- Overall difficulty: easy. Donation-related symptoms and joint / muscle symptom responses were not separately reported.
 
 Progression Decisions:
 
-- Seated Machine Chest Press and Barbell Bench Press must remain separate in planning and logs.
-- Seated Machine Chest Press stays at 35 kg. Three sets of 10 do not satisfy the four-set upgrade rule; next target remains 10 / 10 / 10 / 10 at RIR 2-3 before considering 40 kg.
-- Barbell Bench Press 25 kg remains the upper test load. It was combined with Seated Machine Chest Press on 2026-07-25; do not combine it with the next chest-press progression attempt.
-- Front-to-Chest Lat Pulldown stays at 55 kg for 4 total sets. The 2026-07-25 session recorded only 3 sets; do not program the behind-the-neck variation.
-- Seated Cable Row should use 25 kg while lower-back soreness is present; return to 30 kg only when torso control is clean.
-- Face Pull should remain in the warm-up/prehab block.
-- Tricep Pushdown stays at 15 kg; 12 / 12 at target RIR 3 was recorded.
-- Dumbbell Curl stays at 5 kg with seated or back-supported strict form. Do not count momentum-assisted reps, and stop if right anterior shoulder / chest discomfort returns.
-- Hammer Curl stays at 5 kg with strict form.
-- Dumbbell Lateral Raise should return to 2.5-3 kg and target RIR 3 during the shoulder-friendly block. Do not repeat 5 kg at target RIR 1 before MRI review.
-- Do not stack Weighted Crunch 45 kg and Hanging Leg Raise in the next session. Choose one primary abdominal movement and confirm lower-back and calf recovery.
-- Unassisted Pull-Up 2 reps is recorded as a performance marker only; sets, form, actual RIR, and symptom response are needed before changing assisted-pull-up progression.
-- Leg Press stays at 30 kg for 3 sets of 10 in the pain-free range. This is the first explicitly complete pain-free session at this rehabilitation prescription; confirm the next-day response before adding volume or load.
-- Loaded Bulgarian Split Squat is paused because the movement pattern reproduced right medial knee pain. Re-test with bodyweight only after symptoms settle.
-- The same-day posterior-shoulder response was calm after the 2026-07-25 session, but mild anterior-chest tightness was present. Bilateral posterior-axillary muscle soreness appeared the next morning after evening foam rolling. Do not treat the upper-body work as a fully symptom-free progression pass. Avoid heavy upper-body loading and aggressive direct foam rolling until the soreness and tightness return to baseline.
-- Body weight at 61.0 kg is moving away from the lean-bulk target. Confirm the trend with consistent morning weigh-ins and increase calorie intake by 150-200 kcal if the weekly average remains flat or falls for 2 weeks.
+- Do not add catch-up volume for the missed Tuesday and Thursday sessions.
+- The reduced post-donation session was successful from an effort-control standpoint, but symptom recovery still requires same-day and next-morning confirmation.
+- Leg Press stays at 30 kg for 3 sets of 10. Do not increase until right-knee same-day and next-day response is explicitly pain-free.
+- Seated Machine Chest Press 30 kg for 3 sets of 8 is not a progression test. Wait for the 2026-08-02 MRI review before returning to the 35 kg progression target.
+- Front-to-Chest Lat Pulldown stays conservative. Return from 50 kg to 55 kg only after post-donation recovery and shoulder / posterior-axillary response are confirmed; never use the behind-the-neck version.
+- Seated Cable Row stays conservative until lower-back response is confirmed.
+- Weighted Crunch 40 kg for 2 sets of 10 reached actual RIR 4; no additional abdominal volume is needed.
+- Report same-day and next-morning donation-related symptoms, right-knee response, shoulder / anterior-chest response, posterior-axillary response, and lower-back response before the next progression decision.
+- Body weight at 61.0 kg remains below the lean-bulk target. Confirm the trend with consistent morning weigh-ins and increase calorie intake by 150-200 kcal if the weekly average remains flat or falls for 2 weeks.
 
 ---
 
