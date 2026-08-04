@@ -85,10 +85,10 @@ Training Response:
 Planned resistance training, including bench press and lat pulldown patterns, tends to noticeably improve symptoms after sessions.
 
 Medical Follow-Up:
-MRI planned for Monday 2026-07-13.
+Right shoulder MRI completed on 2026-08-02. Radiology impression: possible right supraspinatus tendon injury, possible right long-head biceps tenosynovitis, and a small right shoulder joint effusion. Clinical follow-up was requested.
 
 Training Implication:
-Continue resistance training conservatively if symptoms improve, but avoid pain-provoking ranges, uncontrolled reps and aggressive load increases until MRI results are reviewed.
+Pause loaded upper-body training and resisted shoulder prehab until orthopedic, sports-medicine, or shoulder-specialist review. Allow only gentle pain-free shoulder movement. Continue knee-aware lower-body and non-shoulder-loading core work only if shoulder gripping and bracing remain pain-free.
 
 ---
 

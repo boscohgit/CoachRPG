@@ -6,7 +6,15 @@ Period:
 2026-06-01 to 2026-08-31
 
 Temporary Adjustment:
-Right shoulder / right anterior chest / right scapula symptoms are under medical review. MRI scheduled for 2026-08-02. Until MRI results are reviewed, use shoulder-friendly upper-body training with RIR 2-4, no repeated failure sets, and no aggressive load jumps.
+Right shoulder MRI was completed on 2026-08-02. The radiology impression states possible right supraspinatus tendon injury, possible right long-head biceps tenosynovitis, and a small right shoulder joint effusion. The report does not provide a definitive tear grade and requests clinical follow-up.
+
+Post-MRI Clinical-Review Hold:
+
+- Pause all loaded upper-body training until orthopedic, sports-medicine, or shoulder-specialist review.
+- Paused movements include Seated Machine Chest Press, Barbell Bench Press, Dumbbell Bench Press, Incline Dumbbell Press, Shoulder Press, Dumbbell Lateral Raise, Lat Pulldown, Seated Cable Row, Pull-Up, loaded curls, Face Pull, Push-Up Plus, and resisted external rotation.
+- Do not test strength, train to failure, force shoulder range, or perform Behind-the-Neck Lat Pulldown.
+- Gentle pain-free daily shoulder movement is allowed. Stop if pain increases.
+- Knee-aware lower-body training and core work may continue only when shoulder bracing and gripping remain pain-free.
 
 Blood Donation Adjustment:
 Blood donation was reported on 2026-07-28; donation type and volume were not recorded. Tuesday and Thursday training were skipped. For the first return session on 2026-08-01, use a 10-15% upper-body load reduction where practical, target RIR 4 on resistance work, reduce total volume, and do not add catch-up sets for the missed sessions. Stop the session for dizziness, lightheadedness, unusual shortness of breath, palpitations, nausea, or marked weakness.
@@ -14,6 +22,9 @@ Blood donation was reported on 2026-07-28; donation type and volume were not rec
 ---
 
 ## Daily Shoulder Prehab
+
+Post-MRI Override:
+Pause the resisted activation block until clinical review. Do not perform Face Pull, Push-Up Plus, Band External Rotation, or Wall Angel if it loads or provokes the right shoulder. Use only gentle pain-free mobility; do not force range.
 
 Warm-Up:
 
@@ -54,7 +65,7 @@ Incline Dumbbell Press
 Optional 2 × 8-10, only if symptom-free
 
 Shoulder Press
-Paused until MRI review
+Paused pending post-MRI clinical review
 
 Lateral Raise
 3 × 10-15, controlled
@@ -116,7 +127,7 @@ Seated Machine Chest Press
 3 × 8-10, RIR 2-3
 
 Barbell Bench Press
-Optional 20 kg technique work only before MRI review
+Paused pending post-MRI clinical review
 
 Lat Pulldown
 3-4 × 8-12, RIR 2-3
@@ -125,7 +136,7 @@ Seated Row
 Seated Cable Row 3 × 8-12, RIR 2-3
 
 Shoulder Press
-Paused until MRI review
+Paused pending post-MRI clinical review
 
 Lateral Raise
 3 × 10-15, controlled
