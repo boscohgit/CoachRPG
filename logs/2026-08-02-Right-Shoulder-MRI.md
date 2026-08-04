@@ -56,6 +56,13 @@ Recorded Interpretation Boundary:
 - Continue knee-aware lower-body training and core work only when they do not require painful shoulder bracing or gripping.
 - Arrange orthopedic, sports-medicine, or shoulder-specialist follow-up and bring the MRI images and report.
 
+## Symptom Follow-Up - 2026-08-04
+
+- Raising the arm causes a tight sensation in the axillary area.
+- No pain was reported.
+- No other problems were reported.
+- This symptom update does not change the temporary hold on loaded upper-body training before clinical review.
+
 ---
 
 ## Questions for Clinical Follow-Up
